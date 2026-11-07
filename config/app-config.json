@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "ads": {
+    "enabled": false,
+    "frequency": 1,
+    "directLinks": [
+      { "network": "adsterra", "url": "", "weight": 1 },
+      { "network": "monetag", "url": "", "weight": 1 }
+    ],
+    "unity": {
+      "gameId": "",
+      "placementId": "Interstitial_Android",
+      "testMode": false,
+      "weight": 1
+    }
+  },
+  "update": {
+    "latestVersionCode": 10000,
+    "latestVersionName": "1.0.0",
+    "changelog": {
+      "en": "First release.",
+      "fr": "Première version."
+    },
+    "apk": {
+      "arm64-v8a": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.0.0/MyVideoDownloader-v1.0.0-arm64-v8a.apk",
+      "armeabi-v7a": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.0.0/MyVideoDownloader-v1.0.0-armeabi-v7a.apk",
+      "x86_64": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.0.0/MyVideoDownloader-v1.0.0-x86_64.apk",
+      "universal": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.0.0/MyVideoDownloader-v1.0.0-universal.apk"
+    }
+  },
+  "links": {
+    "website": "https://videodownloader.my",
+    "fdm": "https://filedownloadmanager.com/"
+  }
+}
