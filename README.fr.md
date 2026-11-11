@@ -24,6 +24,7 @@
 
 ## ✨ Fonctionnalités
 
+- **Nouveau en 1.2** — analyse des liens environ deux fois plus rapide sur tous les sites, titre et image de la vidéo affichés tout de suite, recherche dans la playlist et bouton « Partager l'application » dans le menu.
 - **Nouveau en 1.1** — analyse bien plus rapide (YouTube), sélection multiple dans la playlist, progression MP3 en %, écran toujours allumé dans le lecteur avec bouton portrait/paysage, alerte Wi-Fi uniquement et russe.
 - **Toutes les grandes plateformes** — YouTube, X, Instagram, Facebook, Threads, Snapchat, TikTok, Kick et la plupart des autres sites.
 - **Jusqu'en 4K** — toutes les qualités disponibles, avec la taille du fichier affichée avant de télécharger.

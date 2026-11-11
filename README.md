@@ -24,6 +24,7 @@
 
 ## ✨ Features
 
+- **New in 1.2** — link analysis about twice as fast on every site, the video's title and picture shown at once, search in the Playlist and a "Share the app" button in the menu.
 - **New in 1.1** — much faster analysis (YouTube), multi-select in the Playlist, MP3 progress in %, screen kept on in the player with a portrait/landscape button, Wi-Fi only alert and Russian.
 - **Every big platform** — YouTube, X, Instagram, Facebook, Threads, Snapchat, TikTok, Kick and most other websites.
 - **Up to 4K** — every available quality, with the file size shown before you download.

@@ -24,6 +24,7 @@
 
 ## ✨ Funciones
 
+- **Novedades de la 1.2** — análisis de enlaces aproximadamente el doble de rápido en todos los sitios, título e imagen del video al instante, búsqueda en la lista y botón «Compartir la aplicación» en el menú.
 - **Novedades de la 1.1** — análisis mucho más rápido (YouTube), selección múltiple en la lista, progreso del MP3 en %, pantalla encendida en el reproductor con botón vertical/horizontal, aviso Solo Wi-Fi y ruso.
 - **Todas las grandes plataformas** — YouTube, X, Instagram, Facebook, Threads, Snapchat, TikTok, Kick y la mayoría de los demás sitios.
 - **Hasta 4K** — todas las calidades disponibles, con el tamaño del archivo antes de descargar.

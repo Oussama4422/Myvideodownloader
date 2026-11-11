@@ -24,6 +24,7 @@
 
 ## ✨ Recursos
 
+- **Novo na 1.2** — análise de links cerca de duas vezes mais rápida em todos os sites, título e imagem do vídeo na hora, pesquisa na playlist e botão “Compartilhar o app” no menu.
 - **Novo na 1.1** — análise muito mais rápida (YouTube), seleção múltipla na playlist, progresso do MP3 em %, tela ligada no player com botão retrato/paisagem, alerta Somente Wi-Fi e russo.
 - **Todas as grandes plataformas** — YouTube, X, Instagram, Facebook, Threads, Snapchat, TikTok, Kick e a maioria dos outros sites.
 - **Até 4K** — todas as qualidades disponíveis, com o tamanho do arquivo antes de baixar.

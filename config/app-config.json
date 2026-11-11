@@ -1,41 +1,41 @@
 {
   "schemaVersion": 2,
   "update": {
-    "latestVersionCode": 10101,
-    "latestVersionName": "1.1.1",
+    "latestVersionCode": 10200,
+    "latestVersionName": "1.2.0",
     "released": "2026-11-11",
     "changelog": {
-      "en": "• New lightning-bolt icon\r\n• Passes Google Play Protect: \"Update\" now opens the APK and Android installs it\n• Much faster link analysis, especially YouTube\n• Playlist: menu to select, share, convert to MP3 or delete several files\n• MP3 conversion progress in %\n• Player: screen stays on and portrait/landscape button\n• Wi-Fi only alert on mobile data\n• Russian language, Android 12 support\n• No more ads",
-      "fr": "• Nouvelle icône éclair\r\n• Validée par Google Play Protect : « Mettre à jour » ouvre l'APK et Android l'installe\n• Analyse des liens bien plus rapide, surtout YouTube\n• Playlist : menu pour sélectionner, partager, convertir en MP3 ou supprimer plusieurs fichiers\n• Progression de la conversion MP3 en %\n• Lecteur : écran toujours allumé et bouton portrait/paysage\n• Alerte « Wi-Fi uniquement » en données mobiles\n• Langue russe, compatibilité Android 12\n• Plus aucune publicité",
-      "ar": "• أيقونة برق جديدة\r\n• يجتاز فحص Google Play Protect: زر «تحديث» يفتح ملف APK ويثبّته أندرويد\n• تحليل أسرع بكثير للروابط، خاصة يوتيوب\n• قائمة التشغيل: قائمة لتحديد عدة ملفات ومشاركتها أو تحويلها إلى MP3 أو حذفها\n• عرض تقدّم التحويل إلى MP3 بالنسبة المئوية\n• المشغّل: الشاشة تبقى مضاءة وزر للتبديل بين العمودي والأفقي\n• تنبيه «Wi-Fi فقط» عند استخدام بيانات الجوال\n• اللغة الروسية ودعم أندرويد 12\n• بلا إعلانات",
-      "zh": "• 全新闪电图标\r\n• 通过 Google Play Protect：“更新”会打开 APK，由安卓完成安装\n• 链接分析大幅提速，尤其是 YouTube\n• 播放列表：可多选文件并分享、转换为 MP3 或删除\n• MP3 转换进度以百分比显示\n• 播放器：屏幕常亮，并可一键切换横竖屏\n• 使用移动数据时显示“仅限 Wi-Fi”提醒\n• 新增俄语，支持 Android 12\n• 不再有广告",
-      "ja": "• 新しい稲妻アイコン\r\n• Google Play Protect に合格：「アップデート」で APK を開き、Android がインストール\n• リンクの解析が大幅に高速化（特に YouTube）\n• プレイリスト：複数のファイルを選択して共有・MP3 変換・削除できるメニュー\n• MP3 変換の進行状況を % で表示\n• プレーヤー：画面が消えず、縦／横の切り替えボタン\n• モバイルデータ使用時の「Wi-Fi のみ」警告\n• ロシア語と Android 12 に対応\n• 広告を廃止",
-      "he": "• סמל ברק חדש\r\n• עוברת את Google Play Protect: „עדכון” פותח את ה-APK ואנדרואיד מתקין אותו\n• ניתוח קישורים מהיר בהרבה, במיוחד ביוטיוב\n• פלייליסט: תפריט לבחירה, שיתוף, המרה ל-MP3 או מחיקה של כמה קבצים\n• התקדמות ההמרה ל-MP3 באחוזים\n• נגן: המסך נשאר דולק וכפתור לאורך/לרוחב\n• התראת „Wi-Fi בלבד” בנתונים סלולריים\n• שפה רוסית ותמיכה באנדרואיד 12\n• בלי פרסומות",
-      "hi": "• नया बिजली वाला आइकन\r\n• Google Play Protect में पास: “अपडेट करें” APK खोलता है और Android उसे इंस्टॉल करता है\n• लिंक की जाँच बहुत तेज़, ख़ासकर YouTube\n• प्लेलिस्ट: कई फ़ाइलें चुनकर शेयर करने, MP3 में बदलने या हटाने का मेन्यू\n• MP3 में बदलने की प्रगति % में\n• प्लेयर: स्क्रीन चालू रहती है और पोर्ट्रेट/लैंडस्केप बटन\n• मोबाइल डेटा पर “सिर्फ़ Wi-Fi” चेतावनी\n• रूसी भाषा, Android 12 समर्थन\n• अब कोई विज्ञापन नहीं",
-      "ko": "• 새 번개 아이콘\r\n• Google Play Protect 통과: ‘업데이트’가 APK를 열고 안드로이드가 설치\n• 링크 분석 속도 대폭 향상, 특히 유튜브\n• 재생목록: 여러 파일을 선택해 공유, MP3 변환, 삭제하는 메뉴\n• MP3 변환 진행률 % 표시\n• 플레이어: 화면 꺼짐 방지 및 세로/가로 전환 버튼\n• 모바일 데이터 사용 시 ‘Wi-Fi 전용’ 알림\n• 러시아어 추가, 안드로이드 12 지원\n• 광고 제거",
-      "it": "• Nuova icona a fulmine\r\n• Supera Google Play Protect: «Aggiorna» apre l'APK e Android lo installa\n• Analisi dei link molto più veloce, soprattutto YouTube\n• Playlist: menu per selezionare, condividere, convertire in MP3 o eliminare più file\n• Avanzamento della conversione MP3 in %\n• Lettore: schermo sempre acceso e pulsante verticale/orizzontale\n• Avviso «Solo Wi-Fi» con i dati mobili\n• Lingua russa, supporto ad Android 12\n• Niente più pubblicità",
-      "pt": "• Novo ícone de raio\r\n• Aprovado pelo Google Play Protect: “Atualizar” abre o APK e o Android o instala\n• Análise de links muito mais rápida, principalmente no YouTube\n• Playlist: menu para selecionar, compartilhar, converter em MP3 ou excluir vários arquivos\n• Progresso da conversão em MP3 em %\n• Player: tela sempre ligada e botão retrato/paisagem\n• Alerta “Somente Wi-Fi” nos dados móveis\n• Idioma russo e suporte ao Android 12\n• Sem anúncios",
-      "es": "• Nuevo icono de rayo\r\n• Supera Google Play Protect: «Actualizar» abre el APK y Android lo instala\n• Análisis de enlaces mucho más rápido, sobre todo en YouTube\n• Lista: menú para seleccionar, compartir, convertir a MP3 o eliminar varios archivos\n• Progreso de la conversión a MP3 en %\n• Reproductor: la pantalla no se apaga y botón vertical/horizontal\n• Aviso «Solo Wi-Fi» con datos móviles\n• Idioma ruso y compatibilidad con Android 12\n• Sin anuncios",
-      "de": "• Neues Blitz-Symbol\r\n• Besteht Google Play Protect: „Aktualisieren“ öffnet das APK, Android installiert es\n• Deutlich schnellere Link-Analyse, vor allem bei YouTube\n• Playlist: Menü zum Auswählen, Teilen, Umwandeln in MP3 oder Löschen mehrerer Dateien\n• Fortschritt der MP3-Umwandlung in %\n• Player: Bildschirm bleibt an, Knopf für Hoch-/Querformat\n• Hinweis „Nur WLAN“ bei mobilen Daten\n• Russische Sprache, Unterstützung für Android 12\n• Keine Werbung mehr",
-      "ru": "• Новая иконка-молния\r\n• Проходит проверку Google Play Protect: «Обновить» открывает APK, Android устанавливает его\n• Гораздо более быстрый анализ ссылок, особенно YouTube\n• Плейлист: меню для выбора, отправки, конвертации в MP3 или удаления нескольких файлов\n• Прогресс конвертации в MP3 в %\n• Плеер: экран не гаснет, кнопка книжной/альбомной ориентации\n• Предупреждение «Только Wi-Fi» при мобильном интернете\n• Русский язык и поддержка Android 12\n• Больше никакой рекламы"
+      "en": "• New \"Share the app\" button in the menu\n• Link analysis about twice as fast on every site (YouTube in 3 to 4 seconds)\n• The title and picture of the video appear at once during the analysis\n• A link analyzed a moment ago reopens instantly\n• Search in the Playlist\n• Faster first analysis right after installing",
+      "fr": "• Nouveau bouton « Partager l'application » dans le menu\n• Analyse des liens environ deux fois plus rapide sur tous les sites (YouTube en 3 à 4 secondes)\n• Le titre et l'image de la vidéo s'affichent tout de suite pendant l'analyse\n• Un lien analysé il y a un instant se rouvre instantanément\n• Recherche dans la Playlist\n• Première analyse plus rapide juste après l'installation",
+      "ar": "• زر جديد «مشاركة التطبيق» في القائمة\n• تحليل الروابط أسرع بنحو مرتين على كل المواقع (يوتيوب في 3 إلى 4 ثوانٍ)\n• يظهر عنوان الفيديو وصورته فورًا أثناء التحليل\n• الرابط الذي حُلّل قبل قليل يُفتح فورًا\n• بحث في قائمة التشغيل\n• تحليل أول أسرع مباشرة بعد التثبيت",
+      "zh": "• 菜单中新增“分享应用”按钮\n• 所有网站的链接分析速度约提升一倍（YouTube 只需 3 到 4 秒）\n• 分析过程中立即显示视频的标题和图片\n• 刚分析过的链接可瞬间重新打开\n• 播放列表支持搜索\n• 安装后的首次分析更快",
+      "ja": "• メニューに「アプリを共有」ボタンを追加\n• すべてのサイトでリンクの解析が約 2 倍に高速化（YouTube は 3〜4 秒）\n• 解析中に動画のタイトルと画像をすぐに表示\n• 直前に解析したリンクは一瞬で再表示\n• プレイリスト内の検索\n• インストール直後の最初の解析を高速化",
+      "he": "• כפתור חדש «שיתוף האפליקציה» בתפריט\n• ניתוח קישורים מהיר בערך פי שניים בכל האתרים (YouTube ב-3 עד 4 שניות)\n• הכותרת והתמונה של הסרטון מופיעות מיד בזמן הניתוח\n• קישור שנותח לפני רגע נפתח מחדש מיידית\n• חיפוש בפלייליסט\n• ניתוח ראשון מהיר יותר מיד אחרי ההתקנה",
+      "hi": "• मेन्यू में नया «ऐप शेयर करें» बटन\n• सभी साइटों पर लिंक का विश्लेषण लगभग दोगुना तेज़ (YouTube 3 से 4 सेकंड में)\n• विश्लेषण के दौरान वीडियो का शीर्षक और तस्वीर तुरंत दिखती है\n• अभी-अभी जाँचा गया लिंक तुरंत दोबारा खुलता है\n• प्लेलिस्ट में खोज\n• इंस्टॉल के तुरंत बाद पहला विश्लेषण ज़्यादा तेज़",
+      "ko": "• 메뉴에 새 «앱 공유» 버튼\n• 모든 사이트에서 링크 분석이 약 2배 빨라짐(YouTube는 3~4초)\n• 분석하는 동안 동영상 제목과 이미지를 바로 표시\n• 방금 분석한 링크는 즉시 다시 열림\n• 재생목록 검색\n• 설치 직후 첫 분석이 더 빨라짐",
+      "it": "• Nuovo pulsante «Condividi l'app» nel menu\n• Analisi dei link circa due volte più veloce su tutti i siti (YouTube in 3-4 secondi)\n• Titolo e immagine del video compaiono subito durante l'analisi\n• Un link analizzato poco fa si riapre all'istante\n• Ricerca nella Playlist\n• Prima analisi più veloce subito dopo l'installazione",
+      "pt": "• Novo botão “Compartilhar o app” no menu\n• Análise de links cerca de duas vezes mais rápida em todos os sites (YouTube em 3 a 4 segundos)\n• O título e a imagem do vídeo aparecem na hora durante a análise\n• Um link analisado há pouco reabre instantaneamente\n• Pesquisa na Playlist\n• Primeira análise mais rápida logo após instalar",
+      "es": "• Nuevo botón «Compartir la aplicación» en el menú\n• Análisis de enlaces aproximadamente el doble de rápido en todos los sitios (YouTube en 3 o 4 segundos)\n• El título y la imagen del video aparecen al instante durante el análisis\n• Un enlace analizado hace un momento se vuelve a abrir al instante\n• Búsqueda en la lista de reproducción\n• Primer análisis más rápido justo después de instalar",
+      "de": "• Neue Schaltfläche „App teilen“ im Menü\n• Link-Analyse auf allen Seiten etwa doppelt so schnell (YouTube in 3 bis 4 Sekunden)\n• Titel und Bild des Videos erscheinen sofort während der Analyse\n• Ein eben analysierter Link öffnet sich sofort wieder\n• Suche in der Playlist\n• Schnellere erste Analyse direkt nach der Installation",
+      "ru": "• Новая кнопка «Поделиться приложением» в меню\n• Анализ ссылок примерно вдвое быстрее на всех сайтах (YouTube за 3–4 секунды)\n• Название и картинка видео появляются сразу, пока идёт анализ\n• Недавно проанализированная ссылка открывается мгновенно\n• Поиск в плейлисте\n• Более быстрый первый анализ сразу после установки"
     },
     "apk": {
-      "arm64-v8a": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.1.1/MyVideoDownloader-v1.1.1-arm64-v8a.apk",
-      "armeabi-v7a": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.1.1/MyVideoDownloader-v1.1.1-armeabi-v7a.apk",
-      "x86_64": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.1.1/MyVideoDownloader-v1.1.1-x86_64.apk",
-      "universal": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.1.1/MyVideoDownloader-v1.1.1-universal.apk"
+      "arm64-v8a": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.2.0/MyVideoDownloader-v1.2.0-arm64-v8a.apk",
+      "armeabi-v7a": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.2.0/MyVideoDownloader-v1.2.0-armeabi-v7a.apk",
+      "x86_64": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.2.0/MyVideoDownloader-v1.2.0-x86_64.apk",
+      "universal": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.2.0/MyVideoDownloader-v1.2.0-universal.apk"
     },
     "sha256": {
-      "arm64-v8a": "7cafb28f9d5b5ada726047accb15521d408e9861227c7dbb0286a88396b9d736",
-      "armeabi-v7a": "7d659c19f38daacad764e5bfcac3e42844b1b9a69b7a5cf358c8695c37453820",
-      "x86_64": "10dfb3418094b01b23236d5dd1f13aadafca972966a38a5114fab2af270a1b93",
-      "universal": "f4e38bc24f206a5586c13c6397fd58f243f34c9e68c19a8de29fb5e816653e4c"
+      "arm64-v8a": "9661fe4233c7b02ec9f8d07bce8a4481ddb8e9b9bde3ce82d620eb3a44e6720a",
+      "armeabi-v7a": "67263fc57d220284ccc8cf4254f6189d9e19dc6f8e6a4d888164837934902221",
+      "x86_64": "e2f3642f38d4871cade20e92f8d07f6698451fe4d8f3e80884569376cbcb296e",
+      "universal": "709454337bad180994d5595def7b1f8aa21fea67ca888463413d52a8840e5c1b"
     },
     "size": {
-      "arm64-v8a": 65904720,
-      "armeabi-v7a": 58734260,
-      "x86_64": 68910350,
-      "universal": 226374942
+      "arm64-v8a": 65923904,
+      "armeabi-v7a": 58753444,
+      "x86_64": 68929534,
+      "universal": 226394130
     },
     "page": "https://videodownloader.my/en/download"
   },
