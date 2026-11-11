@@ -23,7 +23,7 @@ Si aucun fichier n'est trouvé, l'app vérifie directement la dernière *release
 | `released` | Date de publication (`AAAA-MM-JJ`). |
 | `changelog` | Nouveautés par code langue (`en`, `fr`, `ar`, `zh`, `ja`, `he`, `hi`, `ko`, `it`, `pt`, `es`, `de`, `ru`). L'anglais sert par défaut. |
 | `apk` | Lien direct de l'APK par architecture (`arm64-v8a`, `armeabi-v7a`, `x86_64`, `universal`). L'app choisit celle du téléphone, sinon `universal`. |
-| `sha256` | Empreinte SHA-256 de chaque APK. **L'app refuse d'installer un fichier dont l'empreinte ne correspond pas.** |
+| `sha256` | Empreinte SHA-256 de chaque APK (affichée sur la page de téléchargement du site et dans `SHA256SUMS.txt`). |
 | `size` | Taille en octets (affichage). |
 
 Les liens pointent vers les *releases* GitHub :
@@ -34,4 +34,7 @@ Les empreintes sont dans le fichier `SHA256SUMS.txt` joint à chaque release.
 
 `website` et `fdm` : adresses ouvertes par le menu (Site web, FDM) et par le bouton Windows.
 
-L'application ne contient plus de publicité depuis la version 1.1.0.
+Quand une version plus récente est publiée, l'application affiche « Mise à jour disponible » avec les nouveautés ;
+le bouton **Mettre à jour** ouvre le lien de l'APK de son architecture et Android l'installe par-dessus la version
+actuelle. Depuis la version 1.1.1, l'application n'installe plus elle-même de paquets (c'est ce qui la faisait classer
+« dangereuse » par Google Play Protect) et ne contient aucune publicité.

@@ -1,41 +1,41 @@
 {
   "schemaVersion": 2,
   "update": {
-    "latestVersionCode": 10100,
-    "latestVersionName": "1.1.0",
+    "latestVersionCode": 10101,
+    "latestVersionName": "1.1.1",
     "released": "2026-11-11",
     "changelog": {
-      "en": "• Much faster link analysis, especially YouTube\n• New cute icon\n• Playlist: menu to select, share, convert to MP3 or delete several files\n• MP3 conversion progress in %\n• Player: screen stays on and portrait/landscape button\n• Wi-Fi only alert on mobile data\n• Russian language, Android 12 support\n• No more ads",
-      "fr": "• Analyse des liens bien plus rapide, surtout YouTube\n• Nouvelle icône mignonne\n• Playlist : menu pour sélectionner, partager, convertir en MP3 ou supprimer plusieurs fichiers\n• Progression de la conversion MP3 en %\n• Lecteur : écran toujours allumé et bouton portrait/paysage\n• Alerte « Wi-Fi uniquement » en données mobiles\n• Langue russe, compatibilité Android 12\n• Plus aucune publicité",
-      "ar": "• تحليل أسرع بكثير للروابط، خاصة يوتيوب\n• أيقونة جديدة لطيفة\n• قائمة التشغيل: قائمة لتحديد عدة ملفات ومشاركتها أو تحويلها إلى MP3 أو حذفها\n• عرض تقدّم التحويل إلى MP3 بالنسبة المئوية\n• المشغّل: الشاشة تبقى مضاءة وزر للتبديل بين العمودي والأفقي\n• تنبيه «Wi-Fi فقط» عند استخدام بيانات الجوال\n• اللغة الروسية ودعم أندرويد 12\n• بلا إعلانات",
-      "zh": "• 链接分析大幅提速，尤其是 YouTube\n• 全新可爱图标\n• 播放列表：可多选文件并分享、转换为 MP3 或删除\n• MP3 转换进度以百分比显示\n• 播放器：屏幕常亮，并可一键切换横竖屏\n• 使用移动数据时显示“仅限 Wi-Fi”提醒\n• 新增俄语，支持 Android 12\n• 不再有广告",
-      "ja": "• リンクの解析が大幅に高速化（特に YouTube）\n• かわいい新アイコン\n• プレイリスト：複数のファイルを選択して共有・MP3 変換・削除できるメニュー\n• MP3 変換の進行状況を % で表示\n• プレーヤー：画面が消えず、縦／横の切り替えボタン\n• モバイルデータ使用時の「Wi-Fi のみ」警告\n• ロシア語と Android 12 に対応\n• 広告を廃止",
-      "he": "• ניתוח קישורים מהיר בהרבה, במיוחד ביוטיוב\n• סמל חדש וחמוד\n• פלייליסט: תפריט לבחירה, שיתוף, המרה ל-MP3 או מחיקה של כמה קבצים\n• התקדמות ההמרה ל-MP3 באחוזים\n• נגן: המסך נשאר דולק וכפתור לאורך/לרוחב\n• התראת „Wi-Fi בלבד” בנתונים סלולריים\n• שפה רוסית ותמיכה באנדרואיד 12\n• בלי פרסומות",
-      "hi": "• लिंक की जाँच बहुत तेज़, ख़ासकर YouTube\n• नया प्यारा आइकन\n• प्लेलिस्ट: कई फ़ाइलें चुनकर शेयर करने, MP3 में बदलने या हटाने का मेन्यू\n• MP3 में बदलने की प्रगति % में\n• प्लेयर: स्क्रीन चालू रहती है और पोर्ट्रेट/लैंडस्केप बटन\n• मोबाइल डेटा पर “सिर्फ़ Wi-Fi” चेतावनी\n• रूसी भाषा, Android 12 समर्थन\n• अब कोई विज्ञापन नहीं",
-      "ko": "• 링크 분석 속도 대폭 향상, 특히 유튜브\n• 귀여운 새 아이콘\n• 재생목록: 여러 파일을 선택해 공유, MP3 변환, 삭제하는 메뉴\n• MP3 변환 진행률 % 표시\n• 플레이어: 화면 꺼짐 방지 및 세로/가로 전환 버튼\n• 모바일 데이터 사용 시 ‘Wi-Fi 전용’ 알림\n• 러시아어 추가, 안드로이드 12 지원\n• 광고 제거",
-      "it": "• Analisi dei link molto più veloce, soprattutto YouTube\n• Nuova icona carina\n• Playlist: menu per selezionare, condividere, convertire in MP3 o eliminare più file\n• Avanzamento della conversione MP3 in %\n• Lettore: schermo sempre acceso e pulsante verticale/orizzontale\n• Avviso «Solo Wi-Fi» con i dati mobili\n• Lingua russa, supporto ad Android 12\n• Niente più pubblicità",
-      "pt": "• Análise de links muito mais rápida, principalmente no YouTube\n• Novo ícone fofo\n• Playlist: menu para selecionar, compartilhar, converter em MP3 ou excluir vários arquivos\n• Progresso da conversão em MP3 em %\n• Player: tela sempre ligada e botão retrato/paisagem\n• Alerta “Somente Wi-Fi” nos dados móveis\n• Idioma russo e suporte ao Android 12\n• Sem anúncios",
-      "es": "• Análisis de enlaces mucho más rápido, sobre todo en YouTube\n• Nuevo icono adorable\n• Lista: menú para seleccionar, compartir, convertir a MP3 o eliminar varios archivos\n• Progreso de la conversión a MP3 en %\n• Reproductor: la pantalla no se apaga y botón vertical/horizontal\n• Aviso «Solo Wi-Fi» con datos móviles\n• Idioma ruso y compatibilidad con Android 12\n• Sin anuncios",
-      "de": "• Deutlich schnellere Link-Analyse, vor allem bei YouTube\n• Neues niedliches Symbol\n• Playlist: Menü zum Auswählen, Teilen, Umwandeln in MP3 oder Löschen mehrerer Dateien\n• Fortschritt der MP3-Umwandlung in %\n• Player: Bildschirm bleibt an, Knopf für Hoch-/Querformat\n• Hinweis „Nur WLAN“ bei mobilen Daten\n• Russische Sprache, Unterstützung für Android 12\n• Keine Werbung mehr",
-      "ru": "• Гораздо более быстрый анализ ссылок, особенно YouTube\n• Новая милая иконка\n• Плейлист: меню для выбора, отправки, конвертации в MP3 или удаления нескольких файлов\n• Прогресс конвертации в MP3 в %\n• Плеер: экран не гаснет, кнопка книжной/альбомной ориентации\n• Предупреждение «Только Wi-Fi» при мобильном интернете\n• Русский язык и поддержка Android 12\n• Больше никакой рекламы"
+      "en": "• New lightning-bolt icon\r\n• Passes Google Play Protect: \"Update\" now opens the APK and Android installs it\n• Much faster link analysis, especially YouTube\n• Playlist: menu to select, share, convert to MP3 or delete several files\n• MP3 conversion progress in %\n• Player: screen stays on and portrait/landscape button\n• Wi-Fi only alert on mobile data\n• Russian language, Android 12 support\n• No more ads",
+      "fr": "• Nouvelle icône éclair\r\n• Validée par Google Play Protect : « Mettre à jour » ouvre l'APK et Android l'installe\n• Analyse des liens bien plus rapide, surtout YouTube\n• Playlist : menu pour sélectionner, partager, convertir en MP3 ou supprimer plusieurs fichiers\n• Progression de la conversion MP3 en %\n• Lecteur : écran toujours allumé et bouton portrait/paysage\n• Alerte « Wi-Fi uniquement » en données mobiles\n• Langue russe, compatibilité Android 12\n• Plus aucune publicité",
+      "ar": "• أيقونة برق جديدة\r\n• يجتاز فحص Google Play Protect: زر «تحديث» يفتح ملف APK ويثبّته أندرويد\n• تحليل أسرع بكثير للروابط، خاصة يوتيوب\n• قائمة التشغيل: قائمة لتحديد عدة ملفات ومشاركتها أو تحويلها إلى MP3 أو حذفها\n• عرض تقدّم التحويل إلى MP3 بالنسبة المئوية\n• المشغّل: الشاشة تبقى مضاءة وزر للتبديل بين العمودي والأفقي\n• تنبيه «Wi-Fi فقط» عند استخدام بيانات الجوال\n• اللغة الروسية ودعم أندرويد 12\n• بلا إعلانات",
+      "zh": "• 全新闪电图标\r\n• 通过 Google Play Protect：“更新”会打开 APK，由安卓完成安装\n• 链接分析大幅提速，尤其是 YouTube\n• 播放列表：可多选文件并分享、转换为 MP3 或删除\n• MP3 转换进度以百分比显示\n• 播放器：屏幕常亮，并可一键切换横竖屏\n• 使用移动数据时显示“仅限 Wi-Fi”提醒\n• 新增俄语，支持 Android 12\n• 不再有广告",
+      "ja": "• 新しい稲妻アイコン\r\n• Google Play Protect に合格：「アップデート」で APK を開き、Android がインストール\n• リンクの解析が大幅に高速化（特に YouTube）\n• プレイリスト：複数のファイルを選択して共有・MP3 変換・削除できるメニュー\n• MP3 変換の進行状況を % で表示\n• プレーヤー：画面が消えず、縦／横の切り替えボタン\n• モバイルデータ使用時の「Wi-Fi のみ」警告\n• ロシア語と Android 12 に対応\n• 広告を廃止",
+      "he": "• סמל ברק חדש\r\n• עוברת את Google Play Protect: „עדכון” פותח את ה-APK ואנדרואיד מתקין אותו\n• ניתוח קישורים מהיר בהרבה, במיוחד ביוטיוב\n• פלייליסט: תפריט לבחירה, שיתוף, המרה ל-MP3 או מחיקה של כמה קבצים\n• התקדמות ההמרה ל-MP3 באחוזים\n• נגן: המסך נשאר דולק וכפתור לאורך/לרוחב\n• התראת „Wi-Fi בלבד” בנתונים סלולריים\n• שפה רוסית ותמיכה באנדרואיד 12\n• בלי פרסומות",
+      "hi": "• नया बिजली वाला आइकन\r\n• Google Play Protect में पास: “अपडेट करें” APK खोलता है और Android उसे इंस्टॉल करता है\n• लिंक की जाँच बहुत तेज़, ख़ासकर YouTube\n• प्लेलिस्ट: कई फ़ाइलें चुनकर शेयर करने, MP3 में बदलने या हटाने का मेन्यू\n• MP3 में बदलने की प्रगति % में\n• प्लेयर: स्क्रीन चालू रहती है और पोर्ट्रेट/लैंडस्केप बटन\n• मोबाइल डेटा पर “सिर्फ़ Wi-Fi” चेतावनी\n• रूसी भाषा, Android 12 समर्थन\n• अब कोई विज्ञापन नहीं",
+      "ko": "• 새 번개 아이콘\r\n• Google Play Protect 통과: ‘업데이트’가 APK를 열고 안드로이드가 설치\n• 링크 분석 속도 대폭 향상, 특히 유튜브\n• 재생목록: 여러 파일을 선택해 공유, MP3 변환, 삭제하는 메뉴\n• MP3 변환 진행률 % 표시\n• 플레이어: 화면 꺼짐 방지 및 세로/가로 전환 버튼\n• 모바일 데이터 사용 시 ‘Wi-Fi 전용’ 알림\n• 러시아어 추가, 안드로이드 12 지원\n• 광고 제거",
+      "it": "• Nuova icona a fulmine\r\n• Supera Google Play Protect: «Aggiorna» apre l'APK e Android lo installa\n• Analisi dei link molto più veloce, soprattutto YouTube\n• Playlist: menu per selezionare, condividere, convertire in MP3 o eliminare più file\n• Avanzamento della conversione MP3 in %\n• Lettore: schermo sempre acceso e pulsante verticale/orizzontale\n• Avviso «Solo Wi-Fi» con i dati mobili\n• Lingua russa, supporto ad Android 12\n• Niente più pubblicità",
+      "pt": "• Novo ícone de raio\r\n• Aprovado pelo Google Play Protect: “Atualizar” abre o APK e o Android o instala\n• Análise de links muito mais rápida, principalmente no YouTube\n• Playlist: menu para selecionar, compartilhar, converter em MP3 ou excluir vários arquivos\n• Progresso da conversão em MP3 em %\n• Player: tela sempre ligada e botão retrato/paisagem\n• Alerta “Somente Wi-Fi” nos dados móveis\n• Idioma russo e suporte ao Android 12\n• Sem anúncios",
+      "es": "• Nuevo icono de rayo\r\n• Supera Google Play Protect: «Actualizar» abre el APK y Android lo instala\n• Análisis de enlaces mucho más rápido, sobre todo en YouTube\n• Lista: menú para seleccionar, compartir, convertir a MP3 o eliminar varios archivos\n• Progreso de la conversión a MP3 en %\n• Reproductor: la pantalla no se apaga y botón vertical/horizontal\n• Aviso «Solo Wi-Fi» con datos móviles\n• Idioma ruso y compatibilidad con Android 12\n• Sin anuncios",
+      "de": "• Neues Blitz-Symbol\r\n• Besteht Google Play Protect: „Aktualisieren“ öffnet das APK, Android installiert es\n• Deutlich schnellere Link-Analyse, vor allem bei YouTube\n• Playlist: Menü zum Auswählen, Teilen, Umwandeln in MP3 oder Löschen mehrerer Dateien\n• Fortschritt der MP3-Umwandlung in %\n• Player: Bildschirm bleibt an, Knopf für Hoch-/Querformat\n• Hinweis „Nur WLAN“ bei mobilen Daten\n• Russische Sprache, Unterstützung für Android 12\n• Keine Werbung mehr",
+      "ru": "• Новая иконка-молния\r\n• Проходит проверку Google Play Protect: «Обновить» открывает APK, Android устанавливает его\n• Гораздо более быстрый анализ ссылок, особенно YouTube\n• Плейлист: меню для выбора, отправки, конвертации в MP3 или удаления нескольких файлов\n• Прогресс конвертации в MP3 в %\n• Плеер: экран не гаснет, кнопка книжной/альбомной ориентации\n• Предупреждение «Только Wi-Fi» при мобильном интернете\n• Русский язык и поддержка Android 12\n• Больше никакой рекламы"
     },
     "apk": {
-      "arm64-v8a": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.1.0/MyVideoDownloader-v1.1.0-arm64-v8a.apk",
-      "armeabi-v7a": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.1.0/MyVideoDownloader-v1.1.0-armeabi-v7a.apk",
-      "x86_64": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.1.0/MyVideoDownloader-v1.1.0-x86_64.apk",
-      "universal": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.1.0/MyVideoDownloader-v1.1.0-universal.apk"
+      "arm64-v8a": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.1.1/MyVideoDownloader-v1.1.1-arm64-v8a.apk",
+      "armeabi-v7a": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.1.1/MyVideoDownloader-v1.1.1-armeabi-v7a.apk",
+      "x86_64": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.1.1/MyVideoDownloader-v1.1.1-x86_64.apk",
+      "universal": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.1.1/MyVideoDownloader-v1.1.1-universal.apk"
     },
     "sha256": {
-      "arm64-v8a": "98b03da511b6c1c1b974f32a288efa9db626f1721ed43aa7900aca991eef1cb0",
-      "armeabi-v7a": "b9ea9207fc9ec9078c32af7532a94a475e92ca56bfe3ec69fbf8d528f771c497",
-      "x86_64": "bc4ca187313d98ad3f7f34e9ef8e1653700ec98dc5434edfe3007f74429c0c84",
-      "universal": "8753bad52707621d33531da79f015ad9d8bd16d398c3352fb2dd6205cb512d85"
+      "arm64-v8a": "7cafb28f9d5b5ada726047accb15521d408e9861227c7dbb0286a88396b9d736",
+      "armeabi-v7a": "7d659c19f38daacad764e5bfcac3e42844b1b9a69b7a5cf358c8695c37453820",
+      "x86_64": "10dfb3418094b01b23236d5dd1f13aadafca972966a38a5114fab2af270a1b93",
+      "universal": "f4e38bc24f206a5586c13c6397fd58f243f34c9e68c19a8de29fb5e816653e4c"
     },
     "size": {
-      "arm64-v8a": 65904052,
-      "armeabi-v7a": 58733592,
-      "x86_64": 68909682,
-      "universal": 226374278
+      "arm64-v8a": 65904720,
+      "armeabi-v7a": 58734260,
+      "x86_64": 68910350,
+      "universal": 226374942
     },
     "page": "https://videodownloader.my/en/download"
   },
