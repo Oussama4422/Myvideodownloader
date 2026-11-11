@@ -4,15 +4,15 @@
 
 <img src="docs/banner.webp" alt="My Video Downloader" width="100%">
 
-[English](README.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [中文](README.zh.md) · [日本語](README.ja.md) · **עברית** · [हिन्दी](README.hi.md) · [한국어](README.ko.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Español](README.es.md) · [Deutsch](README.de.md)
+[English](README.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [中文](README.zh.md) · [日本語](README.ja.md) · **עברית** · [हिन्दी](README.hi.md) · [한국어](README.ko.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
 
 ### הורידו סרטונים, שורטס וסטוריז מהאפליקציות האהובות עליכם — עד 4K או כ-MP3.
 
 <a href="https://github.com/Oussama4422/Myvideodownloader/releases/latest"><img src="https://img.shields.io/badge/%D7%94%D7%95%D7%A8%D7%93%D7%AA%20%D7%94--APK-7C3AED?style=for-the-badge&logo=android&logoColor=white" alt="הורדת ה-APK"></a>
 
-<img src="https://img.shields.io/badge/Android-14%2B-3DDC84?logo=android&logoColor=white" alt="Android 14+"> <img src="https://img.shields.io/github/v/release/Oussama4422/Myvideodownloader?color=C2187A&label=version" alt="version"> <img src="https://img.shields.io/github/downloads/Oussama4422/Myvideodownloader/total?color=F2475E" alt="downloads"> <img src="https://img.shields.io/badge/languages-12-FF9A3C" alt="12 languages">
+<img src="https://img.shields.io/badge/Android-12%2B-3DDC84?logo=android&logoColor=white" alt="Android 12+"> <img src="https://img.shields.io/github/v/release/Oussama4422/Myvideodownloader?color=C2187A&label=version" alt="version"> <img src="https://img.shields.io/github/downloads/Oussama4422/Myvideodownloader/total?color=F2475E" alt="downloads"> <img src="https://img.shields.io/badge/languages-13-FF9A3C" alt="13 languages">
 
-<sub>Android 14 ומעלה · חינם · ללא חשבון</sub>
+<sub>Android 12 ומעלה · חינם · ללא חשבון</sub>
 
 </div>
 
@@ -26,12 +26,13 @@
 
 ## ✨ תכונות
 
+- **חדש ב-1.1** — ניתוח מהיר בהרבה (יוטיוב), בחירה מרובה בפלייליסט, התקדמות MP3 באחוזים, מסך דולק בנגן עם כפתור לאורך/לרוחב, התראת Wi-Fi בלבד ורוסית.
 - **כל הפלטפורמות הגדולות** — YouTube, ‏X, ‏Instagram, ‏Facebook, ‏Threads, ‏Snapchat, ‏TikTok, ‏Kick ורוב האתרים האחרים.
 - **עד 4K** — כל האיכויות הזמינות, עם גודל הקובץ לפני ההורדה.
 - **אודיו בלבד** — MP3 מ-128 עד 320 קילוביט לשנייה, או M4A מקורי.
 - **שתפו כדי להוריד** — שתפו קישור מכל אפליקציה: הדף המתאים נפתח והאיכויות מוכנות.
 - **פלייליסט** — הפעלה, שיתוף, המרה ל-MP3 או מחיקה, בסנכרון עם תיקיית Download.
-- **מצב בהיר וכהה**, **12 שפות**, הורדה ב-Wi-Fi בלבד ונגן מובנה.
+- **מצב בהיר וכהה**, **13 שפות**, הורדה ב-Wi-Fi בלבד ונגן מובנה.
 - **תמיד עובדת** — מנוע ההורדה מתעדכן לבד כשהאתרים משתנים.
 
 ## 🌐 אתרים נתמכים
@@ -81,10 +82,12 @@
 ## 🎨 עוד
 
 <table align="center"><tr>
-<td align="center" valign="top"><img src="docs/screens/common/dark.webp" alt="מצב כהה" width="200"><br><sub><b>מצב כהה</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/downloading.webp" alt="הורדה" width="200"><br><sub><b>הורדה</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/mp3.webp" alt="המרה ל-MP3" width="200"><br><sub><b>המרה ל-MP3</b></sub></td><td align="center" valign="top"><img src="docs/screens/he/tutorial1.webp" alt="מדריך מובנה" width="200"><br><sub><b>מדריך מובנה</b></sub></td>
+<td align="center" valign="top"><img src="docs/screens/he/selectmenu.webp" alt="תפריט בחירה" width="200"><br><sub><b>תפריט בחירה</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/converting.webp" alt="המרה ל-MP3" width="200"><br><sub><b>המרה ל-MP3</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/player.webp" alt="נגן מובנה" width="200"><br><sub><b>נגן מובנה</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/wifi.webp" alt="התראת Wi-Fi בלבד" width="200"><br><sub><b>התראת Wi-Fi בלבד</b></sub></td>
+</tr><tr>
+<td align="center" valign="top"><img src="docs/screens/common/dark.webp" alt="מצב כהה" width="200"><br><sub><b>מצב כהה</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/mp3.webp" alt="המרה ל-MP3" width="200"><br><sub><b>המרה ל-MP3</b></sub></td><td align="center" valign="top"><img src="docs/screens/he/tutorial1.webp" alt="מדריך מובנה" width="200"><br><sub><b>מדריך מובנה</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/donate.webp" alt="תמיכה בפרויקט" width="200"><br><sub><b>תמיכה בפרויקט</b></sub></td>
 </tr></table>
 
-## 🌍 זמינה ב-12 שפות
+## 🌍 זמינה ב-13 שפות
 
 האפליקציה עוברת אוטומטית לשפת הטלפון (אנגלית כברירת מחדל), ואפשר גם לשנות אותה מהתפריט.
 
@@ -95,13 +98,14 @@
 <td align="center"><a href="README.zh.md"><img src="docs/screens/zh/home.webp" alt="中文" width="120"></a><br><sub>中文</sub></td>
 <td align="center"><a href="README.ja.md"><img src="docs/screens/ja/home.webp" alt="日本語" width="120"></a><br><sub>日本語</sub></td>
 <td align="center"><a href="README.he.md"><img src="docs/screens/he/home.webp" alt="עברית" width="120"></a><br><sub>עברית</sub></td>
-</tr><tr>
 <td align="center"><a href="README.hi.md"><img src="docs/screens/hi/home.webp" alt="हिन्दी" width="120"></a><br><sub>हिन्दी</sub></td>
+</tr><tr>
 <td align="center"><a href="README.ko.md"><img src="docs/screens/ko/home.webp" alt="한국어" width="120"></a><br><sub>한국어</sub></td>
 <td align="center"><a href="README.it.md"><img src="docs/screens/it/home.webp" alt="Italiano" width="120"></a><br><sub>Italiano</sub></td>
 <td align="center"><a href="README.pt.md"><img src="docs/screens/pt/home.webp" alt="Português" width="120"></a><br><sub>Português</sub></td>
 <td align="center"><a href="README.es.md"><img src="docs/screens/es/home.webp" alt="Español" width="120"></a><br><sub>Español</sub></td>
 <td align="center"><a href="README.de.md"><img src="docs/screens/de/home.webp" alt="Deutsch" width="120"></a><br><sub>Deutsch</sub></td>
+<td align="center"><a href="README.ru.md"><img src="docs/screens/ru/home.webp" alt="Русский" width="120"></a><br><sub>Русский</sub></td>
 </tr></table>
 
 ## ❓ שאלות נפוצות
@@ -114,7 +118,7 @@
 
 <details><summary><b>איזה APK לבחור?</b></summary>
 
-**arm64-v8a** עובד כמעט בכל טלפון עם Android 14 ומעלה. אם הוא לא מותקן, בחרו **universal**.
+**arm64-v8a** עובד כמעט בכל טלפון עם Android 12 ומעלה. אם הוא לא מותקן, בחרו **universal**.
 
 </details>
 
@@ -140,7 +144,7 @@ Google Play לא מאפשר אפליקציות שמורידות סרטוני You
 
 My Video Downloader חינמית. אם היא עוזרת לכם, אפשר לתמוך בפיתוח שלה:
 
-<p align="center"><a href="https://www.paypal.com/donate/?business=elsouad212%40gmail.com&no_recurring=0&currency_code=EUR"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a></p>
+<p align="center"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"><br>PayPal — שלחו לכתובת המייל הזו:<br><code>elsouad212@gmail.com</code></p>
 
 <p align="center"><img src="docs/btc-qr.webp" alt="Bitcoin QR" width="160"><br><b>Bitcoin (BTC)</b><br><code>bc1qv7h60rf3yrcq2lgdqd9m74ezltchzxvw7lfcgd</code></p>
 

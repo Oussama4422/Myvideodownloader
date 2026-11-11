@@ -2,15 +2,15 @@
 
 <img src="docs/banner.webp" alt="My Video Downloader" width="100%">
 
-[English](README.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [中文](README.zh.md) · [日本語](README.ja.md) · [עברית](README.he.md) · [हिन्दी](README.hi.md) · **한국어** · [Italiano](README.it.md) · [Português](README.pt.md) · [Español](README.es.md) · [Deutsch](README.de.md)
+[English](README.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [中文](README.zh.md) · [日本語](README.ja.md) · [עברית](README.he.md) · [हिन्दी](README.hi.md) · **한국어** · [Italiano](README.it.md) · [Português](README.pt.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
 
 ### 좋아하는 앱의 동영상, 쇼츠, 스토리를 다운로드하세요 — 최대 4K 또는 MP3로.
 
 <a href="https://github.com/Oussama4422/Myvideodownloader/releases/latest"><img src="https://img.shields.io/badge/APK%20%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-7C3AED?style=for-the-badge&logo=android&logoColor=white" alt="APK 다운로드"></a>
 
-<img src="https://img.shields.io/badge/Android-14%2B-3DDC84?logo=android&logoColor=white" alt="Android 14+"> <img src="https://img.shields.io/github/v/release/Oussama4422/Myvideodownloader?color=C2187A&label=version" alt="version"> <img src="https://img.shields.io/github/downloads/Oussama4422/Myvideodownloader/total?color=F2475E" alt="downloads"> <img src="https://img.shields.io/badge/languages-12-FF9A3C" alt="12 languages">
+<img src="https://img.shields.io/badge/Android-12%2B-3DDC84?logo=android&logoColor=white" alt="Android 12+"> <img src="https://img.shields.io/github/v/release/Oussama4422/Myvideodownloader?color=C2187A&label=version" alt="version"> <img src="https://img.shields.io/github/downloads/Oussama4422/Myvideodownloader/total?color=F2475E" alt="downloads"> <img src="https://img.shields.io/badge/languages-13-FF9A3C" alt="13 languages">
 
-<sub>Android 14 이상 · 무료 · 계정 불필요</sub>
+<sub>Android 12 이상 · 무료 · 계정 불필요</sub>
 
 </div>
 
@@ -24,12 +24,13 @@
 
 ## ✨ 기능
 
+- **1.1의 새로운 기능** — 훨씬 빨라진 분석(유튜브), 재생목록 다중 선택, MP3 변환 진행률 %, 플레이어 화면 꺼짐 방지와 세로/가로 버튼, Wi-Fi 전용 알림, 러시아어.
 - **주요 플랫폼 모두 지원** — YouTube, X, Instagram, Facebook, Threads, Snapchat, TikTok, Kick 및 대부분의 웹사이트.
 - **최대 4K** — 사용 가능한 모든 화질을 다운로드 전 파일 크기와 함께 표시.
 - **오디오만** — 128~320kbps MP3 또는 원본 M4A.
 - **공유해서 다운로드** — 어떤 앱에서든 링크를 공유하면 알맞은 페이지가 화질과 함께 열립니다.
 - **재생목록** — 재생, 공유, MP3 변환, 삭제. Download 폴더와 항상 동기화됩니다.
-- **라이트/다크 모드**, **12개 언어**, Wi-Fi 전용 다운로드, 내장 플레이어.
+- **라이트/다크 모드**, **13개 언어**, Wi-Fi 전용 다운로드, 내장 플레이어.
 - **언제나 작동** — 웹사이트가 바뀌면 다운로드 엔진이 스스로 업데이트됩니다.
 
 ## 🌐 지원 사이트
@@ -79,10 +80,12 @@
 ## 🎨 더 보기
 
 <table align="center"><tr>
-<td align="center" valign="top"><img src="docs/screens/common/dark.webp" alt="다크 모드" width="200"><br><sub><b>다크 모드</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/downloading.webp" alt="다운로드 중" width="200"><br><sub><b>다운로드 중</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/mp3.webp" alt="MP3로 변환" width="200"><br><sub><b>MP3로 변환</b></sub></td><td align="center" valign="top"><img src="docs/screens/ko/tutorial1.webp" alt="내장 사용 방법" width="200"><br><sub><b>내장 사용 방법</b></sub></td>
+<td align="center" valign="top"><img src="docs/screens/ko/selectmenu.webp" alt="다중 선택 메뉴" width="200"><br><sub><b>다중 선택 메뉴</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/converting.webp" alt="MP3로 변환" width="200"><br><sub><b>MP3로 변환</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/player.webp" alt="내장 플레이어" width="200"><br><sub><b>내장 플레이어</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/wifi.webp" alt="Wi-Fi 전용 알림" width="200"><br><sub><b>Wi-Fi 전용 알림</b></sub></td>
+</tr><tr>
+<td align="center" valign="top"><img src="docs/screens/common/dark.webp" alt="다크 모드" width="200"><br><sub><b>다크 모드</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/mp3.webp" alt="MP3로 변환" width="200"><br><sub><b>MP3로 변환</b></sub></td><td align="center" valign="top"><img src="docs/screens/ko/tutorial1.webp" alt="내장 사용 방법" width="200"><br><sub><b>내장 사용 방법</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/donate.webp" alt="프로젝트 후원" width="200"><br><sub><b>프로젝트 후원</b></sub></td>
 </tr></table>
 
-## 🌍 12개 언어 지원
+## 🌍 13개 언어 지원
 
 앱은 휴대전화 언어를 자동으로 따릅니다(기본값 영어). 메뉴에서 바꿀 수도 있습니다.
 
@@ -93,13 +96,14 @@
 <td align="center"><a href="README.zh.md"><img src="docs/screens/zh/home.webp" alt="中文" width="120"></a><br><sub>中文</sub></td>
 <td align="center"><a href="README.ja.md"><img src="docs/screens/ja/home.webp" alt="日本語" width="120"></a><br><sub>日本語</sub></td>
 <td align="center"><a href="README.he.md"><img src="docs/screens/he/home.webp" alt="עברית" width="120"></a><br><sub>עברית</sub></td>
-</tr><tr>
 <td align="center"><a href="README.hi.md"><img src="docs/screens/hi/home.webp" alt="हिन्दी" width="120"></a><br><sub>हिन्दी</sub></td>
+</tr><tr>
 <td align="center"><a href="README.ko.md"><img src="docs/screens/ko/home.webp" alt="한국어" width="120"></a><br><sub>한국어</sub></td>
 <td align="center"><a href="README.it.md"><img src="docs/screens/it/home.webp" alt="Italiano" width="120"></a><br><sub>Italiano</sub></td>
 <td align="center"><a href="README.pt.md"><img src="docs/screens/pt/home.webp" alt="Português" width="120"></a><br><sub>Português</sub></td>
 <td align="center"><a href="README.es.md"><img src="docs/screens/es/home.webp" alt="Español" width="120"></a><br><sub>Español</sub></td>
 <td align="center"><a href="README.de.md"><img src="docs/screens/de/home.webp" alt="Deutsch" width="120"></a><br><sub>Deutsch</sub></td>
+<td align="center"><a href="README.ru.md"><img src="docs/screens/ru/home.webp" alt="Русский" width="120"></a><br><sub>Русский</sub></td>
 </tr></table>
 
 ## ❓ 자주 묻는 질문
@@ -112,7 +116,7 @@
 
 <details><summary><b>어떤 APK를 골라야 하나요?</b></summary>
 
-**arm64-v8a**는 Android 14 이상인 거의 모든 휴대전화에서 작동합니다. 설치되지 않으면 **universal**을 받으세요.
+**arm64-v8a**는 Android 12 이상인 거의 모든 휴대전화에서 작동합니다. 설치되지 않으면 **universal**을 받으세요.
 
 </details>
 
@@ -138,7 +142,7 @@ Google Play는 YouTube 동영상을 다운로드하는 앱을 허용하지 않�
 
 My Video Downloader는 무료입니다. 도움이 되셨다면 개발을 후원해 주세요:
 
-<p align="center"><a href="https://www.paypal.com/donate/?business=elsouad212%40gmail.com&no_recurring=0&currency_code=EUR"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a></p>
+<p align="center"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"><br>PayPal — 이 이메일 주소로 보내 주세요:<br><code>elsouad212@gmail.com</code></p>
 
 <p align="center"><img src="docs/btc-qr.webp" alt="Bitcoin QR" width="160"><br><b>Bitcoin (BTC)</b><br><code>bc1qv7h60rf3yrcq2lgdqd9m74ezltchzxvw7lfcgd</code></p>
 

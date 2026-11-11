@@ -2,15 +2,15 @@
 
 <img src="docs/banner.webp" alt="My Video Downloader" width="100%">
 
-[English](README.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [中文](README.zh.md) · [日本語](README.ja.md) · [עברית](README.he.md) · [हिन्दी](README.hi.md) · [한국어](README.ko.md) · [Italiano](README.it.md) · [Português](README.pt.md) · **Español** · [Deutsch](README.de.md)
+[English](README.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [中文](README.zh.md) · [日本語](README.ja.md) · [עברית](README.he.md) · [हिन्दी](README.hi.md) · [한국어](README.ko.md) · [Italiano](README.it.md) · [Português](README.pt.md) · **Español** · [Deutsch](README.de.md) · [Русский](README.ru.md)
 
 ### Descarga vídeos, shorts e historias de tus apps favoritas — hasta 4K, o en MP3.
 
 <a href="https://github.com/Oussama4422/Myvideodownloader/releases/latest"><img src="https://img.shields.io/badge/Descargar%20el%20APK-7C3AED?style=for-the-badge&logo=android&logoColor=white" alt="Descargar el APK"></a>
 
-<img src="https://img.shields.io/badge/Android-14%2B-3DDC84?logo=android&logoColor=white" alt="Android 14+"> <img src="https://img.shields.io/github/v/release/Oussama4422/Myvideodownloader?color=C2187A&label=version" alt="version"> <img src="https://img.shields.io/github/downloads/Oussama4422/Myvideodownloader/total?color=F2475E" alt="downloads"> <img src="https://img.shields.io/badge/languages-12-FF9A3C" alt="12 languages">
+<img src="https://img.shields.io/badge/Android-12%2B-3DDC84?logo=android&logoColor=white" alt="Android 12+"> <img src="https://img.shields.io/github/v/release/Oussama4422/Myvideodownloader?color=C2187A&label=version" alt="version"> <img src="https://img.shields.io/github/downloads/Oussama4422/Myvideodownloader/total?color=F2475E" alt="downloads"> <img src="https://img.shields.io/badge/languages-13-FF9A3C" alt="13 languages">
 
-<sub>Android 14 o posterior · gratis · sin cuenta</sub>
+<sub>Android 12 o posterior · gratis · sin cuenta</sub>
 
 </div>
 
@@ -24,12 +24,13 @@
 
 ## ✨ Funciones
 
+- **Novedades de la 1.1** — análisis mucho más rápido (YouTube), selección múltiple en la lista, progreso del MP3 en %, pantalla encendida en el reproductor con botón vertical/horizontal, aviso Solo Wi-Fi y ruso.
 - **Todas las grandes plataformas** — YouTube, X, Instagram, Facebook, Threads, Snapchat, TikTok, Kick y la mayoría de los demás sitios.
 - **Hasta 4K** — todas las calidades disponibles, con el tamaño del archivo antes de descargar.
 - **Solo audio** — MP3 de 128 a 320 kbps, o el M4A original.
 - **Comparte para descargar** — comparte un enlace desde cualquier app: se abre la página correcta con las calidades listas.
 - **Lista de reproducción** — reproduce, comparte, convierte a MP3 o elimina; se mantiene sincronizada con tu carpeta Download.
-- **Modo claro y oscuro**, **12 idiomas**, descargas solo con Wi-Fi y reproductor integrado.
+- **Modo claro y oscuro**, **13 idiomas**, descargas solo con Wi-Fi y reproductor integrado.
 - **Siempre funciona** — el motor de descarga se actualiza solo cuando los sitios cambian.
 
 ## 🌐 Sitios compatibles
@@ -79,10 +80,12 @@
 ## 🎨 Más
 
 <table align="center"><tr>
-<td align="center" valign="top"><img src="docs/screens/common/dark.webp" alt="Modo oscuro" width="200"><br><sub><b>Modo oscuro</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/downloading.webp" alt="Descargando" width="200"><br><sub><b>Descargando</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/mp3.webp" alt="Convertir a MP3" width="200"><br><sub><b>Convertir a MP3</b></sub></td><td align="center" valign="top"><img src="docs/screens/es/tutorial1.webp" alt="Tutorial integrado" width="200"><br><sub><b>Tutorial integrado</b></sub></td>
+<td align="center" valign="top"><img src="docs/screens/es/selectmenu.webp" alt="Menú de selección" width="200"><br><sub><b>Menú de selección</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/converting.webp" alt="Convertir a MP3" width="200"><br><sub><b>Convertir a MP3</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/player.webp" alt="Reproductor integrado" width="200"><br><sub><b>Reproductor integrado</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/wifi.webp" alt="Aviso Solo Wi-Fi" width="200"><br><sub><b>Aviso Solo Wi-Fi</b></sub></td>
+</tr><tr>
+<td align="center" valign="top"><img src="docs/screens/common/dark.webp" alt="Modo oscuro" width="200"><br><sub><b>Modo oscuro</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/mp3.webp" alt="Convertir a MP3" width="200"><br><sub><b>Convertir a MP3</b></sub></td><td align="center" valign="top"><img src="docs/screens/es/tutorial1.webp" alt="Tutorial integrado" width="200"><br><sub><b>Tutorial integrado</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/donate.webp" alt="Apoya el proyecto" width="200"><br><sub><b>Apoya el proyecto</b></sub></td>
 </tr></table>
 
-## 🌍 Disponible en 12 idiomas
+## 🌍 Disponible en 13 idiomas
 
 La app sigue automáticamente el idioma de tu teléfono (inglés por defecto). También puedes cambiarlo desde el menú.
 
@@ -93,13 +96,14 @@ La app sigue automáticamente el idioma de tu teléfono (inglés por defecto). T
 <td align="center"><a href="README.zh.md"><img src="docs/screens/zh/home.webp" alt="中文" width="120"></a><br><sub>中文</sub></td>
 <td align="center"><a href="README.ja.md"><img src="docs/screens/ja/home.webp" alt="日本語" width="120"></a><br><sub>日本語</sub></td>
 <td align="center"><a href="README.he.md"><img src="docs/screens/he/home.webp" alt="עברית" width="120"></a><br><sub>עברית</sub></td>
-</tr><tr>
 <td align="center"><a href="README.hi.md"><img src="docs/screens/hi/home.webp" alt="हिन्दी" width="120"></a><br><sub>हिन्दी</sub></td>
+</tr><tr>
 <td align="center"><a href="README.ko.md"><img src="docs/screens/ko/home.webp" alt="한국어" width="120"></a><br><sub>한국어</sub></td>
 <td align="center"><a href="README.it.md"><img src="docs/screens/it/home.webp" alt="Italiano" width="120"></a><br><sub>Italiano</sub></td>
 <td align="center"><a href="README.pt.md"><img src="docs/screens/pt/home.webp" alt="Português" width="120"></a><br><sub>Português</sub></td>
 <td align="center"><a href="README.es.md"><img src="docs/screens/es/home.webp" alt="Español" width="120"></a><br><sub>Español</sub></td>
 <td align="center"><a href="README.de.md"><img src="docs/screens/de/home.webp" alt="Deutsch" width="120"></a><br><sub>Deutsch</sub></td>
+<td align="center"><a href="README.ru.md"><img src="docs/screens/ru/home.webp" alt="Русский" width="120"></a><br><sub>Русский</sub></td>
 </tr></table>
 
 ## ❓ Preguntas frecuentes
@@ -112,7 +116,7 @@ Sí. Sin cuenta y sin suscripción.
 
 <details><summary><b>¿Qué APK elijo?</b></summary>
 
-**arm64-v8a** funciona en casi todos los teléfonos con Android 14 o posterior. Si no se instala, elige **universal**.
+**arm64-v8a** funciona en casi todos los teléfonos con Android 12 o posterior. Si no se instala, elige **universal**.
 
 </details>
 
@@ -138,7 +142,7 @@ En la carpeta **Download/My Video Downloader** de tu teléfono y en la **lista d
 
 My Video Downloader es gratuita. Si te resulta útil, puedes apoyar su desarrollo:
 
-<p align="center"><a href="https://www.paypal.com/donate/?business=elsouad212%40gmail.com&no_recurring=0&currency_code=EUR"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a></p>
+<p align="center"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"><br>PayPal — envía a esta dirección de correo:<br><code>elsouad212@gmail.com</code></p>
 
 <p align="center"><img src="docs/btc-qr.webp" alt="Bitcoin QR" width="160"><br><b>Bitcoin (BTC)</b><br><code>bc1qv7h60rf3yrcq2lgdqd9m74ezltchzxvw7lfcgd</code></p>
 

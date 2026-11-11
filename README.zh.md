@@ -2,15 +2,15 @@
 
 <img src="docs/banner.webp" alt="My Video Downloader" width="100%">
 
-[English](README.md) · [Français](README.fr.md) · [العربية](README.ar.md) · **中文** · [日本語](README.ja.md) · [עברית](README.he.md) · [हिन्दी](README.hi.md) · [한국어](README.ko.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Español](README.es.md) · [Deutsch](README.de.md)
+[English](README.md) · [Français](README.fr.md) · [العربية](README.ar.md) · **中文** · [日本語](README.ja.md) · [עברית](README.he.md) · [हिन्दी](README.hi.md) · [한국어](README.ko.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
 
 ### 下载你喜爱应用中的视频、短视频和快拍——最高 4K，或保存为 MP3。
 
 <a href="https://github.com/Oussama4422/Myvideodownloader/releases/latest"><img src="https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD%20APK-7C3AED?style=for-the-badge&logo=android&logoColor=white" alt="下载 APK"></a>
 
-<img src="https://img.shields.io/badge/Android-14%2B-3DDC84?logo=android&logoColor=white" alt="Android 14+"> <img src="https://img.shields.io/github/v/release/Oussama4422/Myvideodownloader?color=C2187A&label=version" alt="version"> <img src="https://img.shields.io/github/downloads/Oussama4422/Myvideodownloader/total?color=F2475E" alt="downloads"> <img src="https://img.shields.io/badge/languages-12-FF9A3C" alt="12 languages">
+<img src="https://img.shields.io/badge/Android-12%2B-3DDC84?logo=android&logoColor=white" alt="Android 12+"> <img src="https://img.shields.io/github/v/release/Oussama4422/Myvideodownloader?color=C2187A&label=version" alt="version"> <img src="https://img.shields.io/github/downloads/Oussama4422/Myvideodownloader/total?color=F2475E" alt="downloads"> <img src="https://img.shields.io/badge/languages-13-FF9A3C" alt="13 languages">
 
-<sub>Android 14 或更高版本 · 免费 · 无需账号</sub>
+<sub>Android 12 或更高版本 · 免费 · 无需账号</sub>
 
 </div>
 
@@ -24,12 +24,13 @@
 
 ## ✨ 功能
 
+- **1.1 新功能**——解析大幅提速（YouTube）、播放列表多选、MP3 转换进度百分比、播放器屏幕常亮并可切换横竖屏、仅限 Wi-Fi 提醒以及俄语。
 - **支持各大平台**——YouTube、X、Instagram、Facebook、Threads、Snapchat、TikTok、Kick 以及大多数其他网站。
 - **最高 4K**——列出所有可用画质，下载前即可看到文件大小。
 - **仅音频**——128 至 320 kbps 的 MP3，或原始 M4A。
 - **分享即下载**——从任意应用分享链接，自动打开对应页面并列出画质。
 - **播放列表**——播放、分享、转换为 MP3 或删除，并与 Download 文件夹保持同步。
-- **浅色/深色模式**、**12 种语言**、仅 Wi-Fi 下载和内置播放器。
+- **浅色/深色模式**、**13 种语言**、仅 Wi-Fi 下载和内置播放器。
 - **始终可用**——网站变化时，下载引擎会自动更新。
 
 ## 🌐 支持的网站
@@ -79,10 +80,12 @@
 ## 🎨 更多
 
 <table align="center"><tr>
-<td align="center" valign="top"><img src="docs/screens/common/dark.webp" alt="深色模式" width="200"><br><sub><b>深色模式</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/downloading.webp" alt="正在下载" width="200"><br><sub><b>正在下载</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/mp3.webp" alt="转换为 MP3" width="200"><br><sub><b>转换为 MP3</b></sub></td><td align="center" valign="top"><img src="docs/screens/zh/tutorial1.webp" alt="内置教程" width="200"><br><sub><b>内置教程</b></sub></td>
+<td align="center" valign="top"><img src="docs/screens/zh/selectmenu.webp" alt="多选菜单" width="200"><br><sub><b>多选菜单</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/converting.webp" alt="转换为 MP3" width="200"><br><sub><b>转换为 MP3</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/player.webp" alt="内置播放器" width="200"><br><sub><b>内置播放器</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/wifi.webp" alt="仅限 Wi-Fi 提醒" width="200"><br><sub><b>仅限 Wi-Fi 提醒</b></sub></td>
+</tr><tr>
+<td align="center" valign="top"><img src="docs/screens/common/dark.webp" alt="深色模式" width="200"><br><sub><b>深色模式</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/mp3.webp" alt="转换为 MP3" width="200"><br><sub><b>转换为 MP3</b></sub></td><td align="center" valign="top"><img src="docs/screens/zh/tutorial1.webp" alt="内置教程" width="200"><br><sub><b>内置教程</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/donate.webp" alt="支持本项目" width="200"><br><sub><b>支持本项目</b></sub></td>
 </tr></table>
 
-## 🌍 支持 12 种语言
+## 🌍 支持 13 种语言
 
 应用会自动跟随手机语言（默认英语），也可以在菜单中更改。
 
@@ -93,13 +96,14 @@
 <td align="center"><a href="README.zh.md"><img src="docs/screens/zh/home.webp" alt="中文" width="120"></a><br><sub>中文</sub></td>
 <td align="center"><a href="README.ja.md"><img src="docs/screens/ja/home.webp" alt="日本語" width="120"></a><br><sub>日本語</sub></td>
 <td align="center"><a href="README.he.md"><img src="docs/screens/he/home.webp" alt="עברית" width="120"></a><br><sub>עברית</sub></td>
-</tr><tr>
 <td align="center"><a href="README.hi.md"><img src="docs/screens/hi/home.webp" alt="हिन्दी" width="120"></a><br><sub>हिन्दी</sub></td>
+</tr><tr>
 <td align="center"><a href="README.ko.md"><img src="docs/screens/ko/home.webp" alt="한국어" width="120"></a><br><sub>한국어</sub></td>
 <td align="center"><a href="README.it.md"><img src="docs/screens/it/home.webp" alt="Italiano" width="120"></a><br><sub>Italiano</sub></td>
 <td align="center"><a href="README.pt.md"><img src="docs/screens/pt/home.webp" alt="Português" width="120"></a><br><sub>Português</sub></td>
 <td align="center"><a href="README.es.md"><img src="docs/screens/es/home.webp" alt="Español" width="120"></a><br><sub>Español</sub></td>
 <td align="center"><a href="README.de.md"><img src="docs/screens/de/home.webp" alt="Deutsch" width="120"></a><br><sub>Deutsch</sub></td>
+<td align="center"><a href="README.ru.md"><img src="docs/screens/ru/home.webp" alt="Русский" width="120"></a><br><sub>Русский</sub></td>
 </tr></table>
 
 ## ❓ 常见问题
@@ -112,7 +116,7 @@
 
 <details><summary><b>该选择哪个 APK？</b></summary>
 
-**arm64-v8a** 适用于几乎所有 Android 14 及以上的手机。如果无法安装，请选择 **universal**。
+**arm64-v8a** 适用于几乎所有 Android 12 及以上的手机。如果无法安装，请选择 **universal**。
 
 </details>
 
@@ -138,7 +142,7 @@ Google Play 不允许下载 YouTube 视频的应用，因此本应用在这里�
 
 My Video Downloader 是免费的。如果它对你有帮助，你可以支持它的开发：
 
-<p align="center"><a href="https://www.paypal.com/donate/?business=elsouad212%40gmail.com&no_recurring=0&currency_code=EUR"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a></p>
+<p align="center"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"><br>PayPal——发送到此电子邮件地址：<br><code>elsouad212@gmail.com</code></p>
 
 <p align="center"><img src="docs/btc-qr.webp" alt="Bitcoin QR" width="160"><br><b>Bitcoin (BTC)</b><br><code>bc1qv7h60rf3yrcq2lgdqd9m74ezltchzxvw7lfcgd</code></p>
 

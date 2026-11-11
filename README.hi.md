@@ -2,15 +2,15 @@
 
 <img src="docs/banner.webp" alt="My Video Downloader" width="100%">
 
-[English](README.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [中文](README.zh.md) · [日本語](README.ja.md) · [עברית](README.he.md) · **हिन्दी** · [한국어](README.ko.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Español](README.es.md) · [Deutsch](README.de.md)
+[English](README.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [中文](README.zh.md) · [日本語](README.ja.md) · [עברית](README.he.md) · **हिन्दी** · [한국어](README.ko.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
 
 ### अपने पसंदीदा ऐप्स से वीडियो, शॉर्ट्स और स्टोरीज़ डाउनलोड करें — 4K तक, या MP3 में।
 
 <a href="https://github.com/Oussama4422/Myvideodownloader/releases/latest"><img src="https://img.shields.io/badge/APK%20%E0%A4%A1%E0%A4%BE%E0%A4%89%E0%A4%A8%E0%A4%B2%E0%A5%8B%E0%A4%A1%20%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82-7C3AED?style=for-the-badge&logo=android&logoColor=white" alt="APK डाउनलोड करें"></a>
 
-<img src="https://img.shields.io/badge/Android-14%2B-3DDC84?logo=android&logoColor=white" alt="Android 14+"> <img src="https://img.shields.io/github/v/release/Oussama4422/Myvideodownloader?color=C2187A&label=version" alt="version"> <img src="https://img.shields.io/github/downloads/Oussama4422/Myvideodownloader/total?color=F2475E" alt="downloads"> <img src="https://img.shields.io/badge/languages-12-FF9A3C" alt="12 languages">
+<img src="https://img.shields.io/badge/Android-12%2B-3DDC84?logo=android&logoColor=white" alt="Android 12+"> <img src="https://img.shields.io/github/v/release/Oussama4422/Myvideodownloader?color=C2187A&label=version" alt="version"> <img src="https://img.shields.io/github/downloads/Oussama4422/Myvideodownloader/total?color=F2475E" alt="downloads"> <img src="https://img.shields.io/badge/languages-13-FF9A3C" alt="13 languages">
 
-<sub>Android 14 या नया · मुफ़्त · कोई खाता नहीं</sub>
+<sub>Android 12 या नया · मुफ़्त · कोई खाता नहीं</sub>
 
 </div>
 
@@ -24,12 +24,13 @@
 
 ## ✨ सुविधाएँ
 
+- **1.1 में नया** — बहुत तेज़ जाँच (YouTube), प्लेलिस्ट में कई फ़ाइलें चुनना, MP3 प्रगति % में, प्लेयर में स्क्रीन चालू और पोर्ट्रेट/लैंडस्केप बटन, सिर्फ़ Wi-Fi चेतावनी और रूसी भाषा।
 - **सभी बड़े प्लेटफ़ॉर्म** — YouTube, X, Instagram, Facebook, Threads, Snapchat, TikTok, Kick और ज़्यादातर दूसरी वेबसाइटें।
 - **4K तक** — हर उपलब्ध क्वालिटी, डाउनलोड से पहले फ़ाइल का आकार दिखता है।
 - **सिर्फ़ ऑडियो** — 128 से 320 kbps तक MP3, या मूल M4A।
 - **शेयर करके डाउनलोड** — किसी भी ऐप से लिंक शेयर करें: सही पेज क्वालिटी के साथ खुल जाता है।
 - **प्लेलिस्ट** — चलाएँ, शेयर करें, MP3 में बदलें या हटाएँ; यह आपके Download फ़ोल्डर के साथ सिंक रहती है।
-- **लाइट और डार्क मोड**, **12 भाषाएँ**, सिर्फ़ Wi-Fi पर डाउनलोड और बिल्ट-इन प्लेयर।
+- **लाइट और डार्क मोड**, **13 भाषाएँ**, सिर्फ़ Wi-Fi पर डाउनलोड और बिल्ट-इन प्लेयर।
 - **हमेशा काम करता है** — वेबसाइटें बदलने पर डाउनलोड इंजन खुद अपडेट हो जाता है।
 
 ## 🌐 समर्थित साइटें
@@ -79,10 +80,12 @@
 ## 🎨 और
 
 <table align="center"><tr>
-<td align="center" valign="top"><img src="docs/screens/common/dark.webp" alt="डार्क मोड" width="200"><br><sub><b>डार्क मोड</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/downloading.webp" alt="डाउनलोड हो रहा है" width="200"><br><sub><b>डाउनलोड हो रहा है</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/mp3.webp" alt="MP3 में बदलें" width="200"><br><sub><b>MP3 में बदलें</b></sub></td><td align="center" valign="top"><img src="docs/screens/hi/tutorial1.webp" alt="बिल्ट-इन ट्यूटोरियल" width="200"><br><sub><b>बिल्ट-इन ट्यूटोरियल</b></sub></td>
+<td align="center" valign="top"><img src="docs/screens/hi/selectmenu.webp" alt="चयन मेन्यू" width="200"><br><sub><b>चयन मेन्यू</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/converting.webp" alt="MP3 में बदलें" width="200"><br><sub><b>MP3 में बदलें</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/player.webp" alt="बिल्ट-इन प्लेयर" width="200"><br><sub><b>बिल्ट-इन प्लेयर</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/wifi.webp" alt="सिर्फ़ Wi-Fi चेतावनी" width="200"><br><sub><b>सिर्फ़ Wi-Fi चेतावनी</b></sub></td>
+</tr><tr>
+<td align="center" valign="top"><img src="docs/screens/common/dark.webp" alt="डार्क मोड" width="200"><br><sub><b>डार्क मोड</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/mp3.webp" alt="MP3 में बदलें" width="200"><br><sub><b>MP3 में बदलें</b></sub></td><td align="center" valign="top"><img src="docs/screens/hi/tutorial1.webp" alt="बिल्ट-इन ट्यूटोरियल" width="200"><br><sub><b>बिल्ट-इन ट्यूटोरियल</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/donate.webp" alt="प्रोजेक्ट को सपोर्ट करें" width="200"><br><sub><b>प्रोजेक्ट को सपोर्ट करें</b></sub></td>
 </tr></table>
 
-## 🌍 12 भाषाओं में उपलब्ध
+## 🌍 13 भाषाओं में उपलब्ध
 
 ऐप अपने-आप आपके फ़ोन की भाषा अपनाता है (डिफ़ॉल्ट अंग्रेज़ी)। आप इसे मेन्यू से भी बदल सकते हैं।
 
@@ -93,13 +96,14 @@
 <td align="center"><a href="README.zh.md"><img src="docs/screens/zh/home.webp" alt="中文" width="120"></a><br><sub>中文</sub></td>
 <td align="center"><a href="README.ja.md"><img src="docs/screens/ja/home.webp" alt="日本語" width="120"></a><br><sub>日本語</sub></td>
 <td align="center"><a href="README.he.md"><img src="docs/screens/he/home.webp" alt="עברית" width="120"></a><br><sub>עברית</sub></td>
-</tr><tr>
 <td align="center"><a href="README.hi.md"><img src="docs/screens/hi/home.webp" alt="हिन्दी" width="120"></a><br><sub>हिन्दी</sub></td>
+</tr><tr>
 <td align="center"><a href="README.ko.md"><img src="docs/screens/ko/home.webp" alt="한국어" width="120"></a><br><sub>한국어</sub></td>
 <td align="center"><a href="README.it.md"><img src="docs/screens/it/home.webp" alt="Italiano" width="120"></a><br><sub>Italiano</sub></td>
 <td align="center"><a href="README.pt.md"><img src="docs/screens/pt/home.webp" alt="Português" width="120"></a><br><sub>Português</sub></td>
 <td align="center"><a href="README.es.md"><img src="docs/screens/es/home.webp" alt="Español" width="120"></a><br><sub>Español</sub></td>
 <td align="center"><a href="README.de.md"><img src="docs/screens/de/home.webp" alt="Deutsch" width="120"></a><br><sub>Deutsch</sub></td>
+<td align="center"><a href="README.ru.md"><img src="docs/screens/ru/home.webp" alt="Русский" width="120"></a><br><sub>Русский</sub></td>
 </tr></table>
 
 ## ❓ अक्सर पूछे जाने वाले सवाल
@@ -112,7 +116,7 @@
 
 <details><summary><b>कौन-सा APK चुनूँ?</b></summary>
 
-**arm64-v8a** Android 14 या नए लगभग हर फ़ोन पर चलता है। अगर इंस्टॉल न हो, तो **universal** लें।
+**arm64-v8a** Android 12 या नए लगभग हर फ़ोन पर चलता है। अगर इंस्टॉल न हो, तो **universal** लें।
 
 </details>
 
@@ -138,7 +142,7 @@ Google Play, YouTube वीडियो डाउनलोड करने व�
 
 My Video Downloader मुफ़्त है। अगर यह आपके काम आता है, तो आप इसके विकास में मदद कर सकते हैं:
 
-<p align="center"><a href="https://www.paypal.com/donate/?business=elsouad212%40gmail.com&no_recurring=0&currency_code=EUR"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a></p>
+<p align="center"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"><br>PayPal — इस ईमेल पते पर भेजें:<br><code>elsouad212@gmail.com</code></p>
 
 <p align="center"><img src="docs/btc-qr.webp" alt="Bitcoin QR" width="160"><br><b>Bitcoin (BTC)</b><br><code>bc1qv7h60rf3yrcq2lgdqd9m74ezltchzxvw7lfcgd</code></p>
 

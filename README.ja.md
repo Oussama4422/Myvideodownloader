@@ -2,15 +2,15 @@
 
 <img src="docs/banner.webp" alt="My Video Downloader" width="100%">
 
-[English](README.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [中文](README.zh.md) · **日本語** · [עברית](README.he.md) · [हिन्दी](README.hi.md) · [한국어](README.ko.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Español](README.es.md) · [Deutsch](README.de.md)
+[English](README.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [中文](README.zh.md) · **日本語** · [עברית](README.he.md) · [हिन्दी](README.hi.md) · [한국어](README.ko.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
 
 ### お気に入りのアプリの動画・ショート・ストーリーを保存 — 最大 4K、または MP3 で。
 
 <a href="https://github.com/Oussama4422/Myvideodownloader/releases/latest"><img src="https://img.shields.io/badge/APK%20%E3%82%92%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-7C3AED?style=for-the-badge&logo=android&logoColor=white" alt="APK をダウンロード"></a>
 
-<img src="https://img.shields.io/badge/Android-14%2B-3DDC84?logo=android&logoColor=white" alt="Android 14+"> <img src="https://img.shields.io/github/v/release/Oussama4422/Myvideodownloader?color=C2187A&label=version" alt="version"> <img src="https://img.shields.io/github/downloads/Oussama4422/Myvideodownloader/total?color=F2475E" alt="downloads"> <img src="https://img.shields.io/badge/languages-12-FF9A3C" alt="12 languages">
+<img src="https://img.shields.io/badge/Android-12%2B-3DDC84?logo=android&logoColor=white" alt="Android 12+"> <img src="https://img.shields.io/github/v/release/Oussama4422/Myvideodownloader?color=C2187A&label=version" alt="version"> <img src="https://img.shields.io/github/downloads/Oussama4422/Myvideodownloader/total?color=F2475E" alt="downloads"> <img src="https://img.shields.io/badge/languages-13-FF9A3C" alt="13 languages">
 
-<sub>Android 14 以降 · 無料 · アカウント不要</sub>
+<sub>Android 12 以降 · 無料 · アカウント不要</sub>
 
 </div>
 
@@ -24,12 +24,13 @@
 
 ## ✨ 機能
 
+- **1.1 の新機能** — 解析が大幅に高速化（YouTube）、プレイリストの複数選択、MP3 変換の進行状況 %、プレーヤーで画面が消えず縦横切り替えボタン、Wi-Fi のみの警告、ロシア語。
 - **主要プラットフォームに対応** — YouTube、X、Instagram、Facebook、Threads、Snapchat、TikTok、Kick、その他ほとんどのサイト。
 - **最大 4K** — 利用できるすべての画質を、ダウンロード前のファイルサイズ付きで表示。
 - **音声のみ** — 128〜320 kbps の MP3、または元の M4A。
 - **共有してダウンロード** — どのアプリからでもリンクを共有すると、適切なページが開き画質が表示されます。
 - **プレイリスト** — 再生・共有・MP3 変換・削除。Download フォルダと常に同期します。
-- **ライト／ダークモード**、**12 言語**、Wi-Fi のみのダウンロード、内蔵プレーヤー。
+- **ライト／ダークモード**、**13 言語**、Wi-Fi のみのダウンロード、内蔵プレーヤー。
 - **いつでも使える** — サイトの変更に合わせてダウンロードエンジンが自動で更新されます。
 
 ## 🌐 対応サイト
@@ -79,10 +80,12 @@
 ## 🎨 その他
 
 <table align="center"><tr>
-<td align="center" valign="top"><img src="docs/screens/common/dark.webp" alt="ダークモード" width="200"><br><sub><b>ダークモード</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/downloading.webp" alt="ダウンロード中" width="200"><br><sub><b>ダウンロード中</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/mp3.webp" alt="MP3 に変換" width="200"><br><sub><b>MP3 に変換</b></sub></td><td align="center" valign="top"><img src="docs/screens/ja/tutorial1.webp" alt="内蔵チュートリアル" width="200"><br><sub><b>内蔵チュートリアル</b></sub></td>
+<td align="center" valign="top"><img src="docs/screens/ja/selectmenu.webp" alt="複数選択メニュー" width="200"><br><sub><b>複数選択メニュー</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/converting.webp" alt="MP3 に変換" width="200"><br><sub><b>MP3 に変換</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/player.webp" alt="内蔵プレーヤー" width="200"><br><sub><b>内蔵プレーヤー</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/wifi.webp" alt="Wi-Fi のみの警告" width="200"><br><sub><b>Wi-Fi のみの警告</b></sub></td>
+</tr><tr>
+<td align="center" valign="top"><img src="docs/screens/common/dark.webp" alt="ダークモード" width="200"><br><sub><b>ダークモード</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/mp3.webp" alt="MP3 に変換" width="200"><br><sub><b>MP3 に変換</b></sub></td><td align="center" valign="top"><img src="docs/screens/ja/tutorial1.webp" alt="内蔵チュートリアル" width="200"><br><sub><b>内蔵チュートリアル</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/donate.webp" alt="プロジェクトを応援" width="200"><br><sub><b>プロジェクトを応援</b></sub></td>
 </tr></table>
 
-## 🌍 12 言語に対応
+## 🌍 13 言語に対応
 
 アプリはスマートフォンの言語に自動で合わせます（既定は英語）。メニューから変更することもできます。
 
@@ -93,13 +96,14 @@
 <td align="center"><a href="README.zh.md"><img src="docs/screens/zh/home.webp" alt="中文" width="120"></a><br><sub>中文</sub></td>
 <td align="center"><a href="README.ja.md"><img src="docs/screens/ja/home.webp" alt="日本語" width="120"></a><br><sub>日本語</sub></td>
 <td align="center"><a href="README.he.md"><img src="docs/screens/he/home.webp" alt="עברית" width="120"></a><br><sub>עברית</sub></td>
-</tr><tr>
 <td align="center"><a href="README.hi.md"><img src="docs/screens/hi/home.webp" alt="हिन्दी" width="120"></a><br><sub>हिन्दी</sub></td>
+</tr><tr>
 <td align="center"><a href="README.ko.md"><img src="docs/screens/ko/home.webp" alt="한국어" width="120"></a><br><sub>한국어</sub></td>
 <td align="center"><a href="README.it.md"><img src="docs/screens/it/home.webp" alt="Italiano" width="120"></a><br><sub>Italiano</sub></td>
 <td align="center"><a href="README.pt.md"><img src="docs/screens/pt/home.webp" alt="Português" width="120"></a><br><sub>Português</sub></td>
 <td align="center"><a href="README.es.md"><img src="docs/screens/es/home.webp" alt="Español" width="120"></a><br><sub>Español</sub></td>
 <td align="center"><a href="README.de.md"><img src="docs/screens/de/home.webp" alt="Deutsch" width="120"></a><br><sub>Deutsch</sub></td>
+<td align="center"><a href="README.ru.md"><img src="docs/screens/ru/home.webp" alt="Русский" width="120"></a><br><sub>Русский</sub></td>
 </tr></table>
 
 ## ❓ よくある質問
@@ -112,7 +116,7 @@
 
 <details><summary><b>どの APK を選べばいいですか？</b></summary>
 
-**arm64-v8a** は Android 14 以降のほぼすべての端末で動作します。インストールできない場合は **universal** を選んでください。
+**arm64-v8a** は Android 12 以降のほぼすべての端末で動作します。インストールできない場合は **universal** を選んでください。
 
 </details>
 
@@ -138,7 +142,7 @@ Google Play では YouTube 動画をダウンロードするアプリが許可�
 
 My Video Downloader は無料です。役に立ったら、開発を応援していただけます：
 
-<p align="center"><a href="https://www.paypal.com/donate/?business=elsouad212%40gmail.com&no_recurring=0&currency_code=EUR"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a></p>
+<p align="center"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"><br>PayPal — このメールアドレスに送金：<br><code>elsouad212@gmail.com</code></p>
 
 <p align="center"><img src="docs/btc-qr.webp" alt="Bitcoin QR" width="160"><br><b>Bitcoin (BTC)</b><br><code>bc1qv7h60rf3yrcq2lgdqd9m74ezltchzxvw7lfcgd</code></p>
 

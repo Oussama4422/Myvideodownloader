@@ -4,15 +4,15 @@
 
 <img src="docs/banner.webp" alt="My Video Downloader" width="100%">
 
-[English](README.md) · [Français](README.fr.md) · **العربية** · [中文](README.zh.md) · [日本語](README.ja.md) · [עברית](README.he.md) · [हिन्दी](README.hi.md) · [한국어](README.ko.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Español](README.es.md) · [Deutsch](README.de.md)
+[English](README.md) · [Français](README.fr.md) · **العربية** · [中文](README.zh.md) · [日本語](README.ja.md) · [עברית](README.he.md) · [हिन्दी](README.hi.md) · [한국어](README.ko.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
 
 ### نزّل الفيديوهات والمقاطع القصيرة والقصص من تطبيقاتك المفضلة — حتى دقة 4K أو بصيغة MP3.
 
 <a href="https://github.com/Oussama4422/Myvideodownloader/releases/latest"><img src="https://img.shields.io/badge/%D8%AA%D9%86%D8%B2%D9%8A%D9%84%20%D9%85%D9%84%D9%81%20APK-7C3AED?style=for-the-badge&logo=android&logoColor=white" alt="تنزيل ملف APK"></a>
 
-<img src="https://img.shields.io/badge/Android-14%2B-3DDC84?logo=android&logoColor=white" alt="Android 14+"> <img src="https://img.shields.io/github/v/release/Oussama4422/Myvideodownloader?color=C2187A&label=version" alt="version"> <img src="https://img.shields.io/github/downloads/Oussama4422/Myvideodownloader/total?color=F2475E" alt="downloads"> <img src="https://img.shields.io/badge/languages-12-FF9A3C" alt="12 languages">
+<img src="https://img.shields.io/badge/Android-12%2B-3DDC84?logo=android&logoColor=white" alt="Android 12+"> <img src="https://img.shields.io/github/v/release/Oussama4422/Myvideodownloader?color=C2187A&label=version" alt="version"> <img src="https://img.shields.io/github/downloads/Oussama4422/Myvideodownloader/total?color=F2475E" alt="downloads"> <img src="https://img.shields.io/badge/languages-13-FF9A3C" alt="13 languages">
 
-<sub>Android 14 أو أحدث · مجاني · بدون حساب</sub>
+<sub>Android 12 أو أحدث · مجاني · بدون حساب</sub>
 
 </div>
 
@@ -26,12 +26,13 @@
 
 ## ✨ المزايا
 
+- **جديد في 1.1** — تحليل أسرع بكثير (يوتيوب)، تحديد متعدد في قائمة التشغيل، تقدّم التحويل إلى MP3 بالنسبة المئوية، شاشة مضاءة في المشغّل مع زر عمودي/أفقي، تنبيه Wi-Fi فقط، واللغة الروسية.
 - **كل المنصات الكبرى** — YouTube وX وInstagram وFacebook وThreads وSnapchat وTikTok وKick ومعظم المواقع الأخرى.
 - **حتى دقة 4K** — كل الجودات المتاحة مع عرض حجم الملف قبل التنزيل.
 - **صوت فقط** — MP3 من 128 إلى 320 كيلوبت/ث، أو M4A الأصلي.
 - **شارك لتنزّل** — شارك رابطًا من أي تطبيق: تُفتح الصفحة المناسبة والجودات جاهزة.
 - **قائمة التشغيل** — تشغيل ومشاركة وتحويل إلى MP3 وحذف، وهي متزامنة مع مجلد Download.
-- **وضع فاتح وداكن** و**12 لغة** وتنزيل عبر Wi-Fi فقط ومشغّل مدمج.
+- **وضع فاتح وداكن** و**13 لغة** وتنزيل عبر Wi-Fi فقط ومشغّل مدمج.
 - **يعمل دائمًا** — يحدّث محرك التنزيل نفسه تلقائيًا كلما تغيّرت المواقع.
 
 ## 🌐 المواقع المدعومة
@@ -81,10 +82,12 @@
 ## 🎨 المزيد
 
 <table align="center"><tr>
-<td align="center" valign="top"><img src="docs/screens/common/dark.webp" alt="الوضع الداكن" width="200"><br><sub><b>الوضع الداكن</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/downloading.webp" alt="جارٍ التنزيل" width="200"><br><sub><b>جارٍ التنزيل</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/mp3.webp" alt="تحويل إلى MP3" width="200"><br><sub><b>تحويل إلى MP3</b></sub></td><td align="center" valign="top"><img src="docs/screens/ar/tutorial1.webp" alt="شرح مدمج" width="200"><br><sub><b>شرح مدمج</b></sub></td>
+<td align="center" valign="top"><img src="docs/screens/ar/selectmenu.webp" alt="قائمة التحديد" width="200"><br><sub><b>قائمة التحديد</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/converting.webp" alt="تحويل إلى MP3" width="200"><br><sub><b>تحويل إلى MP3</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/player.webp" alt="المشغّل المدمج" width="200"><br><sub><b>المشغّل المدمج</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/wifi.webp" alt="تنبيه Wi-Fi فقط" width="200"><br><sub><b>تنبيه Wi-Fi فقط</b></sub></td>
+</tr><tr>
+<td align="center" valign="top"><img src="docs/screens/common/dark.webp" alt="الوضع الداكن" width="200"><br><sub><b>الوضع الداكن</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/mp3.webp" alt="تحويل إلى MP3" width="200"><br><sub><b>تحويل إلى MP3</b></sub></td><td align="center" valign="top"><img src="docs/screens/ar/tutorial1.webp" alt="شرح مدمج" width="200"><br><sub><b>شرح مدمج</b></sub></td><td align="center" valign="top"><img src="docs/screens/common/donate.webp" alt="ادعم المشروع" width="200"><br><sub><b>ادعم المشروع</b></sub></td>
 </tr></table>
 
-## 🌍 متوفر بـ 12 لغة
+## 🌍 متوفر بـ 13 لغة
 
 يتبع التطبيق لغة هاتفك تلقائيًا (الإنجليزية افتراضيًا)، ويمكنك تغييرها من القائمة.
 
@@ -95,13 +98,14 @@
 <td align="center"><a href="README.zh.md"><img src="docs/screens/zh/home.webp" alt="中文" width="120"></a><br><sub>中文</sub></td>
 <td align="center"><a href="README.ja.md"><img src="docs/screens/ja/home.webp" alt="日本語" width="120"></a><br><sub>日本語</sub></td>
 <td align="center"><a href="README.he.md"><img src="docs/screens/he/home.webp" alt="עברית" width="120"></a><br><sub>עברית</sub></td>
-</tr><tr>
 <td align="center"><a href="README.hi.md"><img src="docs/screens/hi/home.webp" alt="हिन्दी" width="120"></a><br><sub>हिन्दी</sub></td>
+</tr><tr>
 <td align="center"><a href="README.ko.md"><img src="docs/screens/ko/home.webp" alt="한국어" width="120"></a><br><sub>한국어</sub></td>
 <td align="center"><a href="README.it.md"><img src="docs/screens/it/home.webp" alt="Italiano" width="120"></a><br><sub>Italiano</sub></td>
 <td align="center"><a href="README.pt.md"><img src="docs/screens/pt/home.webp" alt="Português" width="120"></a><br><sub>Português</sub></td>
 <td align="center"><a href="README.es.md"><img src="docs/screens/es/home.webp" alt="Español" width="120"></a><br><sub>Español</sub></td>
 <td align="center"><a href="README.de.md"><img src="docs/screens/de/home.webp" alt="Deutsch" width="120"></a><br><sub>Deutsch</sub></td>
+<td align="center"><a href="README.ru.md"><img src="docs/screens/ru/home.webp" alt="Русский" width="120"></a><br><sub>Русский</sub></td>
 </tr></table>
 
 ## ❓ الأسئلة الشائعة
@@ -114,7 +118,7 @@
 
 <details><summary><b>أي ملف APK أختار؟</b></summary>
 
-**arm64-v8a** يعمل على معظم الهواتف بنظام Android 14 أو أحدث. إذا لم يُثبَّت، اختر **universal**.
+**arm64-v8a** يعمل على معظم الهواتف بنظام Android 12 أو أحدث. إذا لم يُثبَّت، اختر **universal**.
 
 </details>
 
@@ -140,7 +144,7 @@
 
 My Video Downloader مجاني. إذا كان مفيدًا لك، يمكنك دعم تطويره:
 
-<p align="center"><a href="https://www.paypal.com/donate/?business=elsouad212%40gmail.com&no_recurring=0&currency_code=EUR"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a></p>
+<p align="center"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"><br>PayPal — أرسل إلى عنوان البريد هذا:<br><code>elsouad212@gmail.com</code></p>
 
 <p align="center"><img src="docs/btc-qr.webp" alt="Bitcoin QR" width="160"><br><b>Bitcoin (BTC)</b><br><code>bc1qv7h60rf3yrcq2lgdqd9m74ezltchzxvw7lfcgd</code></p>
 
