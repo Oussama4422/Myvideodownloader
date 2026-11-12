@@ -1,41 +1,41 @@
 {
   "schemaVersion": 2,
   "update": {
-    "latestVersionCode": 10200,
-    "latestVersionName": "1.2.0",
-    "released": "2026-11-11",
+    "latestVersionCode": 10201,
+    "latestVersionName": "1.2.1",
+    "released": "2026-11-12",
     "changelog": {
-      "en": "• New \"Share the app\" button in the menu\n• Link analysis about twice as fast on every site (YouTube in 3 to 4 seconds)\n• The title and picture of the video appear at once during the analysis\n• A link analyzed a moment ago reopens instantly\n• Search in the Playlist\n• Faster first analysis right after installing",
-      "fr": "• Nouveau bouton « Partager l'application » dans le menu\n• Analyse des liens environ deux fois plus rapide sur tous les sites (YouTube en 3 à 4 secondes)\n• Le titre et l'image de la vidéo s'affichent tout de suite pendant l'analyse\n• Un lien analysé il y a un instant se rouvre instantanément\n• Recherche dans la Playlist\n• Première analyse plus rapide juste après l'installation",
-      "ar": "• زر جديد «مشاركة التطبيق» في القائمة\n• تحليل الروابط أسرع بنحو مرتين على كل المواقع (يوتيوب في 3 إلى 4 ثوانٍ)\n• يظهر عنوان الفيديو وصورته فورًا أثناء التحليل\n• الرابط الذي حُلّل قبل قليل يُفتح فورًا\n• بحث في قائمة التشغيل\n• تحليل أول أسرع مباشرة بعد التثبيت",
-      "zh": "• 菜单中新增“分享应用”按钮\n• 所有网站的链接分析速度约提升一倍（YouTube 只需 3 到 4 秒）\n• 分析过程中立即显示视频的标题和图片\n• 刚分析过的链接可瞬间重新打开\n• 播放列表支持搜索\n• 安装后的首次分析更快",
-      "ja": "• メニューに「アプリを共有」ボタンを追加\n• すべてのサイトでリンクの解析が約 2 倍に高速化（YouTube は 3〜4 秒）\n• 解析中に動画のタイトルと画像をすぐに表示\n• 直前に解析したリンクは一瞬で再表示\n• プレイリスト内の検索\n• インストール直後の最初の解析を高速化",
-      "he": "• כפתור חדש «שיתוף האפליקציה» בתפריט\n• ניתוח קישורים מהיר בערך פי שניים בכל האתרים (YouTube ב-3 עד 4 שניות)\n• הכותרת והתמונה של הסרטון מופיעות מיד בזמן הניתוח\n• קישור שנותח לפני רגע נפתח מחדש מיידית\n• חיפוש בפלייליסט\n• ניתוח ראשון מהיר יותר מיד אחרי ההתקנה",
-      "hi": "• मेन्यू में नया «ऐप शेयर करें» बटन\n• सभी साइटों पर लिंक का विश्लेषण लगभग दोगुना तेज़ (YouTube 3 से 4 सेकंड में)\n• विश्लेषण के दौरान वीडियो का शीर्षक और तस्वीर तुरंत दिखती है\n• अभी-अभी जाँचा गया लिंक तुरंत दोबारा खुलता है\n• प्लेलिस्ट में खोज\n• इंस्टॉल के तुरंत बाद पहला विश्लेषण ज़्यादा तेज़",
-      "ko": "• 메뉴에 새 «앱 공유» 버튼\n• 모든 사이트에서 링크 분석이 약 2배 빨라짐(YouTube는 3~4초)\n• 분석하는 동안 동영상 제목과 이미지를 바로 표시\n• 방금 분석한 링크는 즉시 다시 열림\n• 재생목록 검색\n• 설치 직후 첫 분석이 더 빨라짐",
-      "it": "• Nuovo pulsante «Condividi l'app» nel menu\n• Analisi dei link circa due volte più veloce su tutti i siti (YouTube in 3-4 secondi)\n• Titolo e immagine del video compaiono subito durante l'analisi\n• Un link analizzato poco fa si riapre all'istante\n• Ricerca nella Playlist\n• Prima analisi più veloce subito dopo l'installazione",
-      "pt": "• Novo botão “Compartilhar o app” no menu\n• Análise de links cerca de duas vezes mais rápida em todos os sites (YouTube em 3 a 4 segundos)\n• O título e a imagem do vídeo aparecem na hora durante a análise\n• Um link analisado há pouco reabre instantaneamente\n• Pesquisa na Playlist\n• Primeira análise mais rápida logo após instalar",
-      "es": "• Nuevo botón «Compartir la aplicación» en el menú\n• Análisis de enlaces aproximadamente el doble de rápido en todos los sitios (YouTube en 3 o 4 segundos)\n• El título y la imagen del video aparecen al instante durante el análisis\n• Un enlace analizado hace un momento se vuelve a abrir al instante\n• Búsqueda en la lista de reproducción\n• Primer análisis más rápido justo después de instalar",
-      "de": "• Neue Schaltfläche „App teilen“ im Menü\n• Link-Analyse auf allen Seiten etwa doppelt so schnell (YouTube in 3 bis 4 Sekunden)\n• Titel und Bild des Videos erscheinen sofort während der Analyse\n• Ein eben analysierter Link öffnet sich sofort wieder\n• Suche in der Playlist\n• Schnellere erste Analyse direkt nach der Installation",
-      "ru": "• Новая кнопка «Поделиться приложением» в меню\n• Анализ ссылок примерно вдвое быстрее на всех сайтах (YouTube за 3–4 секунды)\n• Название и картинка видео появляются сразу, пока идёт анализ\n• Недавно проанализированная ссылка открывается мгновенно\n• Поиск в плейлисте\n• Более быстрый первый анализ сразу после установки"
+      "en": "• Updates are now downloaded inside the app, with the progress shown: no more browser\n• Once downloaded, tap Install and open the file: Android installs it\n• New \"Share the app\" button in the menu\n• Link analysis about twice as fast on every site (YouTube in 3 to 4 seconds)\n• The title and picture of the video appear at once during the analysis\n• A link analyzed a moment ago reopens instantly\n• Search in the Playlist",
+      "fr": "• Les mises à jour se téléchargent désormais dans l'application, avec la progression : plus de navigateur\n• Une fois téléchargée, touchez Installer puis le fichier : Android l'installe\n• Nouveau bouton « Partager l'application » dans le menu\n• Analyse des liens environ deux fois plus rapide sur tous les sites (YouTube en 3 à 4 secondes)\n• Le titre et l'image de la vidéo s'affichent tout de suite pendant l'analyse\n• Un lien analysé il y a un instant se rouvre instantanément\n• Recherche dans la Playlist",
+      "ar": "• التحديثات تُنزَّل الآن داخل التطبيق مع عرض التقدّم: بلا متصفح\n• بعد التنزيل اضغط «تثبيت» ثم افتح الملف: يثبّته أندرويد\n• زر جديد «مشاركة التطبيق» في القائمة\n• تحليل الروابط أسرع بنحو مرتين على كل المواقع (يوتيوب في 3 إلى 4 ثوانٍ)\n• يظهر عنوان الفيديو وصورته فورًا أثناء التحليل\n• الرابط الذي حُلّل قبل قليل يُفتح فورًا\n• بحث في قائمة التشغيل",
+      "zh": "• 更新现在在应用内下载并显示进度：不再跳转浏览器\n• 下载完成后点按“安装”并打开文件，由安卓完成安装\n• 菜单中新增“分享应用”按钮\n• 所有网站的链接分析速度约提升一倍（YouTube 只需 3 到 4 秒）\n• 分析过程中立即显示视频的标题和图片\n• 刚分析过的链接可瞬间重新打开\n• 播放列表支持搜索",
+      "ja": "• アップデートをアプリ内でダウンロード（進行状況を表示）：ブラウザは不要に\n• ダウンロード後に「インストール」をタップしてファイルを開くと、Android がインストール\n• メニューに「アプリを共有」ボタンを追加\n• すべてのサイトでリンクの解析が約 2 倍に高速化（YouTube は 3〜4 秒）\n• 解析中に動画のタイトルと画像をすぐに表示\n• 直前に解析したリンクは一瞬で再表示\n• プレイリスト内の検索",
+      "he": "• העדכונים מורדים עכשיו בתוך האפליקציה, עם התקדמות: בלי דפדפן\n• אחרי ההורדה הקישו על התקנה ופתחו את הקובץ: אנדרואיד מתקין אותו\n• כפתור חדש «שיתוף האפליקציה» בתפריט\n• ניתוח קישורים מהיר בערך פי שניים בכל האתרים (YouTube ב-3 עד 4 שניות)\n• הכותרת והתמונה של הסרטון מופיעות מיד בזמן הניתוח\n• קישור שנותח לפני רגע נפתח מחדש מיידית\n• חיפוש בפלייליסט",
+      "hi": "• अपडेट अब ऐप के अंदर ही डाउनलोड होते हैं, प्रगति के साथ: ब्राउज़र की ज़रूरत नहीं\n• डाउनलोड के बाद इंस्टॉल पर टैप करें और फ़ाइल खोलें: Android उसे इंस्टॉल कर देगा\n• मेन्यू में नया «ऐप शेयर करें» बटन\n• सभी साइटों पर लिंक का विश्लेषण लगभग दोगुना तेज़ (YouTube 3 से 4 सेकंड में)\n• विश्लेषण के दौरान वीडियो का शीर्षक और तस्वीर तुरंत दिखती है\n• अभी-अभी जाँचा गया लिंक तुरंत दोबारा खुलता है\n• प्लेलिस्ट में खोज",
+      "ko": "• 업데이트를 이제 앱 안에서 다운로드하고 진행률을 표시: 브라우저 불필요\n• 다운로드 후 설치를 누르고 파일을 열면 안드로이드가 설치\n• 메뉴에 새 «앱 공유» 버튼\n• 모든 사이트에서 링크 분석이 약 2배 빨라짐(YouTube는 3~4초)\n• 분석하는 동안 동영상 제목과 이미지를 바로 표시\n• 방금 분석한 링크는 즉시 다시 열림\n• 재생목록 검색",
+      "it": "• Gli aggiornamenti ora si scaricano dentro l'app, con l'avanzamento: niente più browser\n• A download finito, tocca Installa e apri il file: Android lo installa\n• Nuovo pulsante «Condividi l'app» nel menu\n• Analisi dei link circa due volte più veloce su tutti i siti (YouTube in 3-4 secondi)\n• Titolo e immagine del video compaiono subito durante l'analisi\n• Un link analizzato poco fa si riapre all'istante\n• Ricerca nella Playlist",
+      "pt": "• As atualizações agora são baixadas dentro do app, com o progresso: sem navegador\n• Depois de baixar, toque em Instalar e abra o arquivo: o Android instala\n• Novo botão “Compartilhar o app” no menu\n• Análise de links cerca de duas vezes mais rápida em todos os sites (YouTube em 3 a 4 segundos)\n• O título e a imagem do vídeo aparecem na hora durante a análise\n• Um link analisado há pouco reabre instantaneamente\n• Pesquisa na Playlist",
+      "es": "• Las actualizaciones ahora se descargan dentro de la app, con el progreso: sin navegador\n• Una vez descargada, toca Instalar y abre el archivo: Android la instala\n• Nuevo botón «Compartir la aplicación» en el menú\n• Análisis de enlaces aproximadamente el doble de rápido en todos los sitios (YouTube en 3 o 4 segundos)\n• El título y la imagen del video aparecen al instante durante el análisis\n• Un enlace analizado hace un momento se vuelve a abrir al instante\n• Búsqueda en la lista de reproducción",
+      "de": "• Updates werden jetzt in der App heruntergeladen, mit Fortschrittsanzeige: kein Browser mehr\n• Danach auf Installieren tippen und die Datei öffnen: Android installiert sie\n• Neue Schaltfläche „App teilen“ im Menü\n• Link-Analyse auf allen Seiten etwa doppelt so schnell (YouTube in 3 bis 4 Sekunden)\n• Titel und Bild des Videos erscheinen sofort während der Analyse\n• Ein eben analysierter Link öffnet sich sofort wieder\n• Suche in der Playlist",
+      "ru": "• Обновления теперь скачиваются внутри приложения, с индикатором прогресса: без браузера\n• После загрузки нажмите «Установить» и откройте файл: Android установит его\n• Новая кнопка «Поделиться приложением» в меню\n• Анализ ссылок примерно вдвое быстрее на всех сайтах (YouTube за 3–4 секунды)\n• Название и картинка видео появляются сразу, пока идёт анализ\n• Недавно проанализированная ссылка открывается мгновенно\n• Поиск в плейлисте"
     },
     "apk": {
-      "arm64-v8a": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.2.0/MyVideoDownloader-v1.2.0-arm64-v8a.apk",
-      "armeabi-v7a": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.2.0/MyVideoDownloader-v1.2.0-armeabi-v7a.apk",
-      "x86_64": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.2.0/MyVideoDownloader-v1.2.0-x86_64.apk",
-      "universal": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.2.0/MyVideoDownloader-v1.2.0-universal.apk"
+      "arm64-v8a": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.2.1/MyVideoDownloader-v1.2.1-arm64-v8a.apk",
+      "armeabi-v7a": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.2.1/MyVideoDownloader-v1.2.1-armeabi-v7a.apk",
+      "x86_64": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.2.1/MyVideoDownloader-v1.2.1-x86_64.apk",
+      "universal": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.2.1/MyVideoDownloader-v1.2.1-universal.apk"
     },
     "sha256": {
-      "arm64-v8a": "9661fe4233c7b02ec9f8d07bce8a4481ddb8e9b9bde3ce82d620eb3a44e6720a",
-      "armeabi-v7a": "67263fc57d220284ccc8cf4254f6189d9e19dc6f8e6a4d888164837934902221",
-      "x86_64": "e2f3642f38d4871cade20e92f8d07f6698451fe4d8f3e80884569376cbcb296e",
-      "universal": "709454337bad180994d5595def7b1f8aa21fea67ca888463413d52a8840e5c1b"
+      "arm64-v8a": "3afdd62021f8a30ed4b6030cb430fd596044cce9a4903919150c939fc0462ea6",
+      "armeabi-v7a": "7310808050a1758987c167008c34aebd8b8b7bb39c79d2eb9f1934bd9e2127bc",
+      "x86_64": "21f656f4e058626b7daf5c61752f4ddf9cb76a540c1ed52f59f271ff18eabece",
+      "universal": "4469c9737fd7bed47fcfae695b20e8a8c0e35ae2831cfee6bc6e4a8a1b787674"
     },
     "size": {
-      "arm64-v8a": 65923904,
-      "armeabi-v7a": 58753444,
-      "x86_64": 68929534,
-      "universal": 226394130
+      "arm64-v8a": 65935384,
+      "armeabi-v7a": 58764924,
+      "x86_64": 68941014,
+      "universal": 226405610
     },
     "page": "https://videodownloader.my/en/download"
   },
