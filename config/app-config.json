@@ -1,41 +1,41 @@
 {
   "schemaVersion": 2,
   "update": {
-    "latestVersionCode": 10201,
-    "latestVersionName": "1.2.1",
-    "released": "2026-11-12",
+    "latestVersionCode": 10301,
+    "latestVersionName": "1.3.1",
+    "released": "2026-11-18",
     "changelog": {
-      "en": "• Updates are now downloaded inside the app, with the progress shown: no more browser\n• Once downloaded, tap Install and open the file: Android installs it\n• New \"Share the app\" button in the menu\n• Link analysis about twice as fast on every site (YouTube in 3 to 4 seconds)\n• The title and picture of the video appear at once during the analysis\n• A link analyzed a moment ago reopens instantly\n• Search in the Playlist",
-      "fr": "• Les mises à jour se téléchargent désormais dans l'application, avec la progression : plus de navigateur\n• Une fois téléchargée, touchez Installer puis le fichier : Android l'installe\n• Nouveau bouton « Partager l'application » dans le menu\n• Analyse des liens environ deux fois plus rapide sur tous les sites (YouTube en 3 à 4 secondes)\n• Le titre et l'image de la vidéo s'affichent tout de suite pendant l'analyse\n• Un lien analysé il y a un instant se rouvre instantanément\n• Recherche dans la Playlist",
-      "ar": "• التحديثات تُنزَّل الآن داخل التطبيق مع عرض التقدّم: بلا متصفح\n• بعد التنزيل اضغط «تثبيت» ثم افتح الملف: يثبّته أندرويد\n• زر جديد «مشاركة التطبيق» في القائمة\n• تحليل الروابط أسرع بنحو مرتين على كل المواقع (يوتيوب في 3 إلى 4 ثوانٍ)\n• يظهر عنوان الفيديو وصورته فورًا أثناء التحليل\n• الرابط الذي حُلّل قبل قليل يُفتح فورًا\n• بحث في قائمة التشغيل",
-      "zh": "• 更新现在在应用内下载并显示进度：不再跳转浏览器\n• 下载完成后点按“安装”并打开文件，由安卓完成安装\n• 菜单中新增“分享应用”按钮\n• 所有网站的链接分析速度约提升一倍（YouTube 只需 3 到 4 秒）\n• 分析过程中立即显示视频的标题和图片\n• 刚分析过的链接可瞬间重新打开\n• 播放列表支持搜索",
-      "ja": "• アップデートをアプリ内でダウンロード（進行状況を表示）：ブラウザは不要に\n• ダウンロード後に「インストール」をタップしてファイルを開くと、Android がインストール\n• メニューに「アプリを共有」ボタンを追加\n• すべてのサイトでリンクの解析が約 2 倍に高速化（YouTube は 3〜4 秒）\n• 解析中に動画のタイトルと画像をすぐに表示\n• 直前に解析したリンクは一瞬で再表示\n• プレイリスト内の検索",
-      "he": "• העדכונים מורדים עכשיו בתוך האפליקציה, עם התקדמות: בלי דפדפן\n• אחרי ההורדה הקישו על התקנה ופתחו את הקובץ: אנדרואיד מתקין אותו\n• כפתור חדש «שיתוף האפליקציה» בתפריט\n• ניתוח קישורים מהיר בערך פי שניים בכל האתרים (YouTube ב-3 עד 4 שניות)\n• הכותרת והתמונה של הסרטון מופיעות מיד בזמן הניתוח\n• קישור שנותח לפני רגע נפתח מחדש מיידית\n• חיפוש בפלייליסט",
-      "hi": "• अपडेट अब ऐप के अंदर ही डाउनलोड होते हैं, प्रगति के साथ: ब्राउज़र की ज़रूरत नहीं\n• डाउनलोड के बाद इंस्टॉल पर टैप करें और फ़ाइल खोलें: Android उसे इंस्टॉल कर देगा\n• मेन्यू में नया «ऐप शेयर करें» बटन\n• सभी साइटों पर लिंक का विश्लेषण लगभग दोगुना तेज़ (YouTube 3 से 4 सेकंड में)\n• विश्लेषण के दौरान वीडियो का शीर्षक और तस्वीर तुरंत दिखती है\n• अभी-अभी जाँचा गया लिंक तुरंत दोबारा खुलता है\n• प्लेलिस्ट में खोज",
-      "ko": "• 업데이트를 이제 앱 안에서 다운로드하고 진행률을 표시: 브라우저 불필요\n• 다운로드 후 설치를 누르고 파일을 열면 안드로이드가 설치\n• 메뉴에 새 «앱 공유» 버튼\n• 모든 사이트에서 링크 분석이 약 2배 빨라짐(YouTube는 3~4초)\n• 분석하는 동안 동영상 제목과 이미지를 바로 표시\n• 방금 분석한 링크는 즉시 다시 열림\n• 재생목록 검색",
-      "it": "• Gli aggiornamenti ora si scaricano dentro l'app, con l'avanzamento: niente più browser\n• A download finito, tocca Installa e apri il file: Android lo installa\n• Nuovo pulsante «Condividi l'app» nel menu\n• Analisi dei link circa due volte più veloce su tutti i siti (YouTube in 3-4 secondi)\n• Titolo e immagine del video compaiono subito durante l'analisi\n• Un link analizzato poco fa si riapre all'istante\n• Ricerca nella Playlist",
-      "pt": "• As atualizações agora são baixadas dentro do app, com o progresso: sem navegador\n• Depois de baixar, toque em Instalar e abra o arquivo: o Android instala\n• Novo botão “Compartilhar o app” no menu\n• Análise de links cerca de duas vezes mais rápida em todos os sites (YouTube em 3 a 4 segundos)\n• O título e a imagem do vídeo aparecem na hora durante a análise\n• Um link analisado há pouco reabre instantaneamente\n• Pesquisa na Playlist",
-      "es": "• Las actualizaciones ahora se descargan dentro de la app, con el progreso: sin navegador\n• Una vez descargada, toca Instalar y abre el archivo: Android la instala\n• Nuevo botón «Compartir la aplicación» en el menú\n• Análisis de enlaces aproximadamente el doble de rápido en todos los sitios (YouTube en 3 o 4 segundos)\n• El título y la imagen del video aparecen al instante durante el análisis\n• Un enlace analizado hace un momento se vuelve a abrir al instante\n• Búsqueda en la lista de reproducción",
-      "de": "• Updates werden jetzt in der App heruntergeladen, mit Fortschrittsanzeige: kein Browser mehr\n• Danach auf Installieren tippen und die Datei öffnen: Android installiert sie\n• Neue Schaltfläche „App teilen“ im Menü\n• Link-Analyse auf allen Seiten etwa doppelt so schnell (YouTube in 3 bis 4 Sekunden)\n• Titel und Bild des Videos erscheinen sofort während der Analyse\n• Ein eben analysierter Link öffnet sich sofort wieder\n• Suche in der Playlist",
-      "ru": "• Обновления теперь скачиваются внутри приложения, с индикатором прогресса: без браузера\n• После загрузки нажмите «Установить» и откройте файл: Android установит его\n• Новая кнопка «Поделиться приложением» в меню\n• Анализ ссылок примерно вдвое быстрее на всех сайтах (YouTube за 3–4 секунды)\n• Название и картинка видео появляются сразу, пока идёт анализ\n• Недавно проанализированная ссылка открывается мгновенно\n• Поиск в плейлисте"
+      "en": "• Download videos with their subtitles: new Subtitles tab, one language or all of them, embedded in the video\n• Built-in player: subtitles button to choose the language or turn them off, text size and dark background\n• New Facebook, WhatsApp and Telegram buttons at the bottom of the menu\n• If a download fails, tap the message to see the exact error and copy it\n• Several download fixes",
+      "fr": "• Téléchargez les vidéos avec leurs sous-titres intégrés : nouvel onglet Sous-titres, une langue ou toutes\n• Lecteur intégré : bouton sous-titres pour choisir la langue ou les désactiver, taille du texte et fond sombre\n• Nouveaux boutons Facebook, WhatsApp et Telegram en bas du menu\n• Si un téléchargement échoue, touchez le message pour voir l'erreur exacte et la copier\n• Plusieurs corrections des téléchargements",
+      "ar": "• نزّل الفيديوهات مع ترجمتها المدمجة: تبويب «الترجمة» الجديد، لغة واحدة أو كل اللغات\n• المشغّل المدمج: زر للترجمة لاختيار اللغة أو إيقافها، مع حجم النص وخلفية داكنة\n• أزرار جديدة لفيسبوك وواتساب وتيليجرام أسفل القائمة\n• إذا فشل التنزيل، اضغط على الرسالة لرؤية الخطأ بالتفصيل ونسخه\n• عدة إصلاحات للتنزيلات",
+      "de": "• Videos mit eingebetteten Untertiteln herunterladen: neuer Tab „Untertitel“, eine Sprache oder alle\n• Integrierter Player: Untertitel-Button zum Wählen der Sprache oder Ausschalten, mit Textgröße und dunklem Hintergrund\n• Neue Buttons für Facebook, WhatsApp und Telegram unten im Menü\n• Schlägt ein Download fehl, tippe auf die Meldung, um den genauen Fehler zu sehen und zu kopieren\n• Mehrere Korrekturen bei Downloads",
+      "es": "• Descarga los vídeos con sus subtítulos integrados: nueva pestaña Subtítulos, un idioma o todos\n• Reproductor integrado: botón de subtítulos para elegir el idioma o desactivarlos, con tamaño del texto y fondo oscuro\n• Nuevos botones de Facebook, WhatsApp y Telegram al final del menú\n• Si una descarga falla, toca el mensaje para ver el error exacto y copiarlo\n• Varias correcciones en las descargas",
+      "he": "• הורידו סרטונים עם כתוביות מוטמעות: לשונית כתוביות חדשה, שפה אחת או כל השפות\n• הנגן המובנה: כפתור כתוביות לבחירת השפה או לכיבוי, עם גודל טקסט ורקע כהה\n• כפתורים חדשים של פייסבוק, וואטסאפ וטלגרם בתחתית התפריט\n• אם הורדה נכשלת, הקישו על ההודעה כדי לראות את השגיאה המדויקת ולהעתיק אותה\n• כמה תיקונים בהורדות",
+      "hi": "• वीडियो को उनके उपशीर्षकों के साथ डाउनलोड करें: नया उपशीर्षक टैब, एक भाषा या सभी भाषाएँ, वीडियो में जुड़े हुए\n• बिल्ट-इन प्लेयर: भाषा चुनने या उपशीर्षक बंद करने का बटन, टेक्स्ट का आकार और गहरी पृष्ठभूमि\n• मेनू के नीचे Facebook, WhatsApp और Telegram के नए बटन\n• डाउनलोड विफल होने पर, सटीक गड़बड़ी देखने और कॉपी करने के लिए संदेश पर टैप करें\n• डाउनलोड में कई सुधार",
+      "it": "• Scarica i video con i sottotitoli incorporati: nuova scheda Sottotitoli, una lingua o tutte\n• Lettore integrato: pulsante sottotitoli per scegliere la lingua o disattivarli, con dimensione del testo e sfondo scuro\n• Nuovi pulsanti Facebook, WhatsApp e Telegram in fondo al menu\n• Se un download non riesce, tocca il messaggio per vedere l'errore esatto e copiarlo\n• Diverse correzioni ai download",
+      "ja": "• 字幕付きで動画をダウンロード：新しい「字幕」タブで 1 つの言語またはすべての言語を選び、動画に埋め込みます\n• 内蔵プレーヤー：字幕ボタンで言語の選択やオフ、文字サイズ、暗い背景を設定\n• メニューの下に Facebook、WhatsApp、Telegram の新しいボタン\n• ダウンロードに失敗したら、メッセージをタップすると詳しいエラーを確認してコピーできます\n• ダウンロードに関する複数の修正",
+      "ko": "• 자막이 포함된 동영상 다운로드: 새 자막 탭에서 한 언어 또는 모든 언어 선택, 동영상에 포함\n• 내장 플레이어: 자막 버튼으로 언어 선택 또는 끄기, 글자 크기와 어두운 배경 설정\n• 메뉴 하단에 Facebook, WhatsApp, Telegram 새 버튼\n• 다운로드에 실패하면 메시지를 눌러 정확한 오류를 보고 복사할 수 있습니다\n• 다운로드 관련 여러 수정",
+      "pt": "• Baixe os vídeos com as legendas embutidas: nova aba Legendas, um idioma ou todos\n• Player integrado: botão de legendas para escolher o idioma ou desativá-las, com tamanho do texto e fundo escuro\n• Novos botões do Facebook, WhatsApp e Telegram no final do menu\n• Se um download falhar, toque na mensagem para ver o erro exato e copiá-lo\n• Várias correções nos downloads",
+      "ru": "• Скачивайте видео со встроенными субтитрами: новая вкладка «Субтитры», один язык или все\n• Встроенный плеер: кнопка субтитров для выбора языка или отключения, размер текста и тёмный фон\n• Новые кнопки Facebook, WhatsApp и Telegram внизу меню\n• Если загрузка не удалась, нажмите на сообщение, чтобы увидеть точную ошибку и скопировать её\n• Несколько исправлений загрузок",
+      "zh": "• 下载带字幕的视频：新的“字幕”标签，可选一种语言或全部语言，字幕嵌入视频\n• 内置播放器：字幕按钮可选择语言或关闭字幕，并可调整文字大小和深色背景\n• 菜单底部新增 Facebook、WhatsApp 和 Telegram 按钮\n• 下载失败时，点按提示即可查看并复制具体错误\n• 多项下载修复"
     },
     "apk": {
-      "arm64-v8a": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.2.1/MyVideoDownloader-v1.2.1-arm64-v8a.apk",
-      "armeabi-v7a": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.2.1/MyVideoDownloader-v1.2.1-armeabi-v7a.apk",
-      "x86_64": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.2.1/MyVideoDownloader-v1.2.1-x86_64.apk",
-      "universal": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.2.1/MyVideoDownloader-v1.2.1-universal.apk"
+      "arm64-v8a": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.3.1/MyVideoDownloader-v1.3.1-arm64-v8a.apk",
+      "armeabi-v7a": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.3.1/MyVideoDownloader-v1.3.1-armeabi-v7a.apk",
+      "x86_64": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.3.1/MyVideoDownloader-v1.3.1-x86_64.apk",
+      "universal": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.3.1/MyVideoDownloader-v1.3.1-universal.apk"
     },
     "sha256": {
-      "arm64-v8a": "3afdd62021f8a30ed4b6030cb430fd596044cce9a4903919150c939fc0462ea6",
-      "armeabi-v7a": "7310808050a1758987c167008c34aebd8b8b7bb39c79d2eb9f1934bd9e2127bc",
-      "x86_64": "21f656f4e058626b7daf5c61752f4ddf9cb76a540c1ed52f59f271ff18eabece",
-      "universal": "4469c9737fd7bed47fcfae695b20e8a8c0e35ae2831cfee6bc6e4a8a1b787674"
+      "arm64-v8a": "b8f32cbb8c615cc177f81e028c27d15fb3e9494aa9b450e98ee92465d9ea651f",
+      "armeabi-v7a": "65ff0f61e5e3f658b0203100ecc6cb2c4e0e6bc34b2c00bb3c39cc8a19b866f5",
+      "x86_64": "4eb80a7c591c3fd25ed56ea11528185c5f38416ffac901b1069cc7e85f775082",
+      "universal": "3f47f98648f77208e1d02b50db21701889a867da8b79eb6353f6afdb497679c9"
     },
     "size": {
-      "arm64-v8a": 65935384,
-      "armeabi-v7a": 58764924,
-      "x86_64": 68941014,
-      "universal": 226405610
+      "arm64-v8a": 66088340,
+      "armeabi-v7a": 58917880,
+      "x86_64": 69093970,
+      "universal": 226558566
     },
     "page": "https://videodownloader.my/en/download"
   },
