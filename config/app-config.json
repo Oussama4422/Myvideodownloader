@@ -1,41 +1,41 @@
 {
   "schemaVersion": 2,
   "update": {
-    "latestVersionCode": 10301,
-    "latestVersionName": "1.3.1",
+    "latestVersionCode": 10303,
+    "latestVersionName": "1.3.3",
     "released": "2026-11-18",
     "changelog": {
-      "en": "• Download videos with their subtitles: new Subtitles tab, one language or all of them, embedded in the video\n• Built-in player: subtitles button to choose the language or turn them off, text size and dark background\n• New Facebook, WhatsApp and Telegram buttons at the bottom of the menu\n• If a download fails, tap the message to see the exact error and copy it\n• Several download fixes",
-      "fr": "• Téléchargez les vidéos avec leurs sous-titres intégrés : nouvel onglet Sous-titres, une langue ou toutes\n• Lecteur intégré : bouton sous-titres pour choisir la langue ou les désactiver, taille du texte et fond sombre\n• Nouveaux boutons Facebook, WhatsApp et Telegram en bas du menu\n• Si un téléchargement échoue, touchez le message pour voir l'erreur exacte et la copier\n• Plusieurs corrections des téléchargements",
-      "ar": "• نزّل الفيديوهات مع ترجمتها المدمجة: تبويب «الترجمة» الجديد، لغة واحدة أو كل اللغات\n• المشغّل المدمج: زر للترجمة لاختيار اللغة أو إيقافها، مع حجم النص وخلفية داكنة\n• أزرار جديدة لفيسبوك وواتساب وتيليجرام أسفل القائمة\n• إذا فشل التنزيل، اضغط على الرسالة لرؤية الخطأ بالتفصيل ونسخه\n• عدة إصلاحات للتنزيلات",
-      "de": "• Videos mit eingebetteten Untertiteln herunterladen: neuer Tab „Untertitel“, eine Sprache oder alle\n• Integrierter Player: Untertitel-Button zum Wählen der Sprache oder Ausschalten, mit Textgröße und dunklem Hintergrund\n• Neue Buttons für Facebook, WhatsApp und Telegram unten im Menü\n• Schlägt ein Download fehl, tippe auf die Meldung, um den genauen Fehler zu sehen und zu kopieren\n• Mehrere Korrekturen bei Downloads",
-      "es": "• Descarga los vídeos con sus subtítulos integrados: nueva pestaña Subtítulos, un idioma o todos\n• Reproductor integrado: botón de subtítulos para elegir el idioma o desactivarlos, con tamaño del texto y fondo oscuro\n• Nuevos botones de Facebook, WhatsApp y Telegram al final del menú\n• Si una descarga falla, toca el mensaje para ver el error exacto y copiarlo\n• Varias correcciones en las descargas",
-      "he": "• הורידו סרטונים עם כתוביות מוטמעות: לשונית כתוביות חדשה, שפה אחת או כל השפות\n• הנגן המובנה: כפתור כתוביות לבחירת השפה או לכיבוי, עם גודל טקסט ורקע כהה\n• כפתורים חדשים של פייסבוק, וואטסאפ וטלגרם בתחתית התפריט\n• אם הורדה נכשלת, הקישו על ההודעה כדי לראות את השגיאה המדויקת ולהעתיק אותה\n• כמה תיקונים בהורדות",
-      "hi": "• वीडियो को उनके उपशीर्षकों के साथ डाउनलोड करें: नया उपशीर्षक टैब, एक भाषा या सभी भाषाएँ, वीडियो में जुड़े हुए\n• बिल्ट-इन प्लेयर: भाषा चुनने या उपशीर्षक बंद करने का बटन, टेक्स्ट का आकार और गहरी पृष्ठभूमि\n• मेनू के नीचे Facebook, WhatsApp और Telegram के नए बटन\n• डाउनलोड विफल होने पर, सटीक गड़बड़ी देखने और कॉपी करने के लिए संदेश पर टैप करें\n• डाउनलोड में कई सुधार",
-      "it": "• Scarica i video con i sottotitoli incorporati: nuova scheda Sottotitoli, una lingua o tutte\n• Lettore integrato: pulsante sottotitoli per scegliere la lingua o disattivarli, con dimensione del testo e sfondo scuro\n• Nuovi pulsanti Facebook, WhatsApp e Telegram in fondo al menu\n• Se un download non riesce, tocca il messaggio per vedere l'errore esatto e copiarlo\n• Diverse correzioni ai download",
-      "ja": "• 字幕付きで動画をダウンロード：新しい「字幕」タブで 1 つの言語またはすべての言語を選び、動画に埋め込みます\n• 内蔵プレーヤー：字幕ボタンで言語の選択やオフ、文字サイズ、暗い背景を設定\n• メニューの下に Facebook、WhatsApp、Telegram の新しいボタン\n• ダウンロードに失敗したら、メッセージをタップすると詳しいエラーを確認してコピーできます\n• ダウンロードに関する複数の修正",
-      "ko": "• 자막이 포함된 동영상 다운로드: 새 자막 탭에서 한 언어 또는 모든 언어 선택, 동영상에 포함\n• 내장 플레이어: 자막 버튼으로 언어 선택 또는 끄기, 글자 크기와 어두운 배경 설정\n• 메뉴 하단에 Facebook, WhatsApp, Telegram 새 버튼\n• 다운로드에 실패하면 메시지를 눌러 정확한 오류를 보고 복사할 수 있습니다\n• 다운로드 관련 여러 수정",
-      "pt": "• Baixe os vídeos com as legendas embutidas: nova aba Legendas, um idioma ou todos\n• Player integrado: botão de legendas para escolher o idioma ou desativá-las, com tamanho do texto e fundo escuro\n• Novos botões do Facebook, WhatsApp e Telegram no final do menu\n• Se um download falhar, toque na mensagem para ver o erro exato e copiá-lo\n• Várias correções nos downloads",
-      "ru": "• Скачивайте видео со встроенными субтитрами: новая вкладка «Субтитры», один язык или все\n• Встроенный плеер: кнопка субтитров для выбора языка или отключения, размер текста и тёмный фон\n• Новые кнопки Facebook, WhatsApp и Telegram внизу меню\n• Если загрузка не удалась, нажмите на сообщение, чтобы увидеть точную ошибку и скопировать её\n• Несколько исправлений загрузок",
-      "zh": "• 下载带字幕的视频：新的“字幕”标签，可选一种语言或全部语言，字幕嵌入视频\n• 内置播放器：字幕按钮可选择语言或关闭字幕，并可调整文字大小和深色背景\n• 菜单底部新增 Facebook、WhatsApp 和 Telegram 按钮\n• 下载失败时，点按提示即可查看并复制具体错误\n• 多项下载修复"
+      "en": "• New Facebook, WhatsApp and Telegram buttons at the bottom of the menu",
+      "fr": "• Nouveaux boutons Facebook, WhatsApp et Telegram en bas du menu",
+      "ar": "• أزرار جديدة لفيسبوك وواتساب وتيليجرام أسفل القائمة",
+      "de": "• Neue Buttons für Facebook, WhatsApp und Telegram unten im Menü",
+      "es": "• Nuevos botones de Facebook, WhatsApp y Telegram al final del menú",
+      "he": "• כפתורים חדשים של פייסבוק, וואטסאפ וטלגרם בתחתית התפריט",
+      "hi": "• मेनू के नीचे Facebook, WhatsApp और Telegram के नए बटन",
+      "it": "• Nuovi pulsanti Facebook, WhatsApp e Telegram in fondo al menu",
+      "ja": "• メニューの下に Facebook、WhatsApp、Telegram の新しいボタン",
+      "ko": "• 메뉴 하단에 Facebook, WhatsApp, Telegram 새 버튼",
+      "pt": "• Novos botões do Facebook, WhatsApp e Telegram no final do menu",
+      "ru": "• Новые кнопки Facebook, WhatsApp и Telegram внизу меню",
+      "zh": "• 菜单底部新增 Facebook、WhatsApp 和 Telegram 按钮"
     },
     "apk": {
-      "arm64-v8a": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.3.1/MyVideoDownloader-v1.3.1-arm64-v8a.apk",
-      "armeabi-v7a": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.3.1/MyVideoDownloader-v1.3.1-armeabi-v7a.apk",
-      "x86_64": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.3.1/MyVideoDownloader-v1.3.1-x86_64.apk",
-      "universal": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.3.1/MyVideoDownloader-v1.3.1-universal.apk"
+      "arm64-v8a": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.3.3/MyVideoDownloader-v1.3.3-arm64-v8a.apk",
+      "armeabi-v7a": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.3.3/MyVideoDownloader-v1.3.3-armeabi-v7a.apk",
+      "x86_64": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.3.3/MyVideoDownloader-v1.3.3-x86_64.apk",
+      "universal": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.3.3/MyVideoDownloader-v1.3.3-universal.apk"
     },
     "sha256": {
-      "arm64-v8a": "b8f32cbb8c615cc177f81e028c27d15fb3e9494aa9b450e98ee92465d9ea651f",
-      "armeabi-v7a": "65ff0f61e5e3f658b0203100ecc6cb2c4e0e6bc34b2c00bb3c39cc8a19b866f5",
-      "x86_64": "4eb80a7c591c3fd25ed56ea11528185c5f38416ffac901b1069cc7e85f775082",
-      "universal": "3f47f98648f77208e1d02b50db21701889a867da8b79eb6353f6afdb497679c9"
+      "arm64-v8a": "a92e3de887d46f8d7b86b2ac38b0e8a4912145a1f2891cf0fc088279fa3eedbb",
+      "armeabi-v7a": "329f7cfba17951bca614056ab02dc4191ba903e0e99ca6f4d0fc2d8b73d8872c",
+      "x86_64": "7606a91b55517d768c14600656e548cd2db9e49db8a4d617dcec4b1ed6b1ebb2",
+      "universal": "183f0658df64c35386ba5d0bc248bb88dfa9f9b7b35149886739efe466553d54"
     },
     "size": {
-      "arm64-v8a": 66088340,
-      "armeabi-v7a": 58917880,
-      "x86_64": 69093970,
-      "universal": 226558566
+      "arm64-v8a": 65944068,
+      "armeabi-v7a": 58773608,
+      "x86_64": 68949698,
+      "universal": 226414290
     },
     "page": "https://videodownloader.my/en/download"
   },
