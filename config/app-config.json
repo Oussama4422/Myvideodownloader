@@ -1,41 +1,41 @@
 {
   "schemaVersion": 2,
   "update": {
-    "latestVersionCode": 10304,
-    "latestVersionName": "1.3.4",
-    "released": "2026-11-18",
+    "latestVersionCode": 10305,
+    "latestVersionName": "1.3.5",
+    "released": "2026-11-19",
     "changelog": {
-      "en": "• Much faster downloads: YouTube videos now download over 8 connections at once (a 4K video in minutes instead of hours)\n• Fixed: the app could close during long downloads in the background\n• “Finishing…” is shown while a large file is merged and saved\n• Slightly faster analysis of YouTube links",
-      "fr": "• Téléchargements beaucoup plus rapides : les vidéos YouTube se téléchargent maintenant par 8 connexions à la fois (une vidéo 4K en quelques minutes au lieu de plusieurs heures)\n• Corrigé : l'application pouvait se fermer pendant les longs téléchargements en arrière-plan\n• « Finalisation… » s'affiche pendant l'assemblage et l'enregistrement d'un gros fichier\n• Analyse des liens YouTube un peu plus rapide",
-      "ar": "• تنزيلات أسرع بكثير: تُنزَّل فيديوهات YouTube الآن عبر 8 اتصالات في الوقت نفسه (فيديو 4K في دقائق بدل ساعات)\n• إصلاح: كان التطبيق قد يُغلق أثناء التنزيلات الطويلة في الخلفية\n• تظهر عبارة «جارٍ الإنهاء…» أثناء دمج الملف الكبير وحفظه\n• تحليل أسرع قليلًا لروابط YouTube",
-      "de": "• Viel schnellere Downloads: YouTube-Videos werden jetzt über 8 Verbindungen gleichzeitig geladen (ein 4K-Video in Minuten statt Stunden)\n• Behoben: Die App konnte sich bei langen Downloads im Hintergrund schließen\n• „Wird abgeschlossen…“ wird angezeigt, während eine große Datei zusammengefügt und gespeichert wird\n• Etwas schnellere Analyse von YouTube-Links",
-      "es": "• Descargas mucho más rápidas: los vídeos de YouTube ahora se descargan con 8 conexiones a la vez (un vídeo 4K en minutos en lugar de horas)\n• Corregido: la aplicación podía cerrarse durante las descargas largas en segundo plano\n• Se muestra «Finalizando…» mientras un archivo grande se une y se guarda\n• Análisis un poco más rápido de los enlaces de YouTube",
-      "he": "• הורדות מהירות בהרבה: סרטוני YouTube יורדים עכשיו ב־8 חיבורים בו־זמנית (סרטון 4K בדקות במקום בשעות)\n• תוקן: האפליקציה הייתה עלולה להיסגר במהלך הורדות ארוכות ברקע\n• בזמן איחוד ושמירה של קובץ גדול מוצג „מסיים…”\n• ניתוח מעט מהיר יותר של קישורי YouTube",
-      "hi": "• बहुत तेज़ डाउनलोड: YouTube वीडियो अब एक साथ 8 कनेक्शन से डाउनलोड होते हैं (4K वीडियो घंटों की जगह मिनटों में)\n• ठीक किया गया: बैकग्राउंड में लंबे डाउनलोड के दौरान ऐप बंद हो सकता था\n• बड़ी फ़ाइल को जोड़ते और सेव करते समय \"पूरा किया जा रहा है…\" दिखता है\n• YouTube लिंक का थोड़ा तेज़ विश्लेषण",
-      "it": "• Download molto più veloci: i video di YouTube ora si scaricano con 8 connessioni contemporaneamente (un video 4K in pochi minuti invece che in ore)\n• Risolto: l'app poteva chiudersi durante i download lunghi in background\n• Viene mostrato «Completamento…» mentre un file grande viene unito e salvato\n• Analisi un po' più veloce dei link di YouTube",
-      "ja": "• ダウンロードが大幅に高速化：YouTube の動画を 8 本の接続で同時にダウンロード（4K 動画が数時間ではなく数分で完了）\n• 修正：バックグラウンドでの長いダウンロード中にアプリが終了することがある問題\n• 大きなファイルの結合・保存中は「仕上げ中…」と表示\n• YouTube リンクの解析を少し高速化",
-      "ko": "• 훨씬 빨라진 다운로드: 이제 YouTube 동영상을 8개 연결로 동시에 다운로드합니다(4K 동영상도 몇 시간이 아니라 몇 분)\n• 수정: 백그라운드에서 긴 다운로드 중 앱이 종료될 수 있던 문제\n• 큰 파일을 합치고 저장하는 동안 '마무리 중…'이 표시됩니다\n• YouTube 링크 분석 속도 소폭 향상",
-      "pt": "• Downloads muito mais rápidos: os vídeos do YouTube agora são baixados por 8 conexões ao mesmo tempo (um vídeo 4K em minutos em vez de horas)\n• Corrigido: o app podia fechar durante downloads longos em segundo plano\n• “Finalizando…” aparece enquanto um arquivo grande é unido e salvo\n• Análise um pouco mais rápida dos links do YouTube",
-      "ru": "• Намного более быстрые загрузки: видео с YouTube теперь скачиваются сразу по 8 соединениям (видео в 4K за минуты, а не за часы)\n• Исправлено: приложение могло закрываться во время долгих загрузок в фоне\n• Во время объединения и сохранения большого файла отображается «Завершение…»\n• Немного более быстрый анализ ссылок YouTube",
-      "zh": "• 下载大幅提速：YouTube 视频现在通过 8 个连接同时下载（4K 视频只需几分钟，而不是几小时）\n• 修复：在后台进行长时间下载时应用可能会关闭的问题\n• 合并并保存大文件时会显示“正在完成…”\n• YouTube 链接分析略有加快"
+      "en": "• Cancel now really stops the download and deletes its temporary files\n• The download speed is shown in the app and in the notification",
+      "fr": "• Annuler arrête maintenant vraiment le téléchargement et supprime ses fichiers temporaires\n• Le débit de téléchargement s'affiche dans l'application et dans la notification",
+      "ar": "• زر الإلغاء يوقف التنزيل الآن فعلًا ويحذف ملفاته المؤقتة\n• تظهر سرعة التنزيل في التطبيق وفي الإشعار",
+      "de": "• Abbrechen stoppt den Download jetzt wirklich und löscht seine temporären Dateien\n• Die Download-Geschwindigkeit wird in der App und in der Benachrichtigung angezeigt",
+      "es": "• Cancelar ahora detiene de verdad la descarga y borra sus archivos temporales\n• La velocidad de descarga se muestra en la aplicación y en la notificación",
+      "he": "• ביטול עוצר עכשיו באמת את ההורדה ומוחק את הקבצים הזמניים שלה\n• מהירות ההורדה מוצגת באפליקציה ובהתראה",
+      "hi": "• रद्द करें अब सच में डाउनलोड रोकता है और उसकी अस्थायी फ़ाइलें हटाता है\n• डाउनलोड की गति ऐप और सूचना में दिखती है",
+      "it": "• Annulla ora interrompe davvero il download ed elimina i suoi file temporanei\n• La velocità di download è mostrata nell'app e nella notifica",
+      "ja": "• キャンセルでダウンロードが確実に停止し、一時ファイルも削除されるようになりました\n• ダウンロード速度をアプリと通知に表示",
+      "ko": "• 이제 취소하면 다운로드가 실제로 멈추고 임시 파일도 삭제됩니다\n• 다운로드 속도가 앱과 알림에 표시됩니다",
+      "pt": "• Cancelar agora interrompe mesmo o download e apaga os arquivos temporários\n• A velocidade de download aparece no app e na notificação",
+      "ru": "• Кнопка «Отмена» теперь действительно останавливает загрузку и удаляет её временные файлы\n• Скорость загрузки отображается в приложении и в уведомлении",
+      "zh": "• 现在点按“取消”会真正停止下载，并删除其临时文件\n• 应用和通知中会显示下载速度"
     },
     "apk": {
-      "arm64-v8a": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.3.4/MyVideoDownloader-v1.3.4-arm64-v8a.apk",
-      "armeabi-v7a": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.3.4/MyVideoDownloader-v1.3.4-armeabi-v7a.apk",
-      "x86_64": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.3.4/MyVideoDownloader-v1.3.4-x86_64.apk",
-      "universal": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.3.4/MyVideoDownloader-v1.3.4-universal.apk"
+      "arm64-v8a": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.3.5/MyVideoDownloader-v1.3.5-arm64-v8a.apk",
+      "armeabi-v7a": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.3.5/MyVideoDownloader-v1.3.5-armeabi-v7a.apk",
+      "x86_64": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.3.5/MyVideoDownloader-v1.3.5-x86_64.apk",
+      "universal": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.3.5/MyVideoDownloader-v1.3.5-universal.apk"
     },
     "sha256": {
-      "arm64-v8a": "473f1c588f443b31bd9c4c17a4bf9e722b0fd50dc2a577e6f64549bf19466300",
-      "armeabi-v7a": "32bb99c76c1fbb6410694b4c46a11feaf660ca806467e12de9ad6e8b00f97261",
-      "x86_64": "0a2b8f30bee3e9647f247be25a84be963d06e6b0a55e12f4f1099a59cdec4068",
-      "universal": "e38bb7b9e7e99124ff0aaaa8e924f6443f7dcfe1ade461a6c3994e889a4c29a4"
+      "arm64-v8a": "44a1b3e383d342ffc0f16182055c3eab2583ac2a0d5d0072fa8ea9b524abc5b1",
+      "armeabi-v7a": "0aa8fdb815d52c1c0e8587734e3e6c1dd742ff1952a3b8ed497385ccbe0a2af4",
+      "x86_64": "eb5340b8d75d913e3aa82acb0f6db37e410bd86157050a41ccd931a7d9100e7f",
+      "universal": "b63c0a90b2cc562b4b76db02241c022f2c57358350152d9908bd03b0dc78b081"
     },
     "size": {
-      "arm64-v8a": 65956140,
-      "armeabi-v7a": 58785680,
-      "x86_64": 68961770,
-      "universal": 226426366
+      "arm64-v8a": 65958872,
+      "armeabi-v7a": 58788412,
+      "x86_64": 68964502,
+      "universal": 226429098
     },
     "page": "https://videodownloader.my/en/download"
   },
