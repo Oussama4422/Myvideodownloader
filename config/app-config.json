@@ -1,41 +1,41 @@
 {
   "schemaVersion": 2,
   "update": {
-    "latestVersionCode": 10401,
-    "latestVersionName": "1.4.1",
-    "released": "2026-11-20",
+    "latestVersionCode": 10505,
+    "latestVersionName": "1.5.5",
+    "released": "2026-11-21",
     "changelog": {
-      "en": "• Download videos with their subtitles: new Subtitles tab, one language or all of them, embedded in the video\n• Built-in player: subtitles button to choose the language or turn them off, text size and dark background\n• In the Playlist, an icon marks the videos that have subtitles\n• If a download fails, tap the message to see the exact error and copy it",
-      "fr": "• Téléchargez les vidéos avec leurs sous-titres intégrés : nouvel onglet Sous-titres, une langue ou toutes\n• Lecteur intégré : bouton sous-titres pour choisir la langue ou les désactiver, taille du texte et fond sombre\n• Dans la Playlist, une icône signale les vidéos qui ont des sous-titres\n• Si un téléchargement échoue, touchez le message pour voir l'erreur exacte et la copier",
-      "ar": "• نزّل الفيديوهات مع ترجمتها المدمجة: تبويب «الترجمة» الجديد، لغة واحدة أو كل اللغات\n• المشغّل المدمج: زر للترجمة لاختيار اللغة أو إيقافها، مع حجم النص وخلفية داكنة\n• في قائمة التشغيل، تشير أيقونة إلى الفيديوهات التي تحتوي على ترجمة\n• إذا فشل التنزيل، اضغط على الرسالة لرؤية الخطأ بالتفصيل ونسخه",
-      "de": "• Videos mit eingebetteten Untertiteln herunterladen: neuer Tab „Untertitel“, eine Sprache oder alle\n• Integrierter Player: Untertitel-Button zum Wählen der Sprache oder Ausschalten, mit Textgröße und dunklem Hintergrund\n• In der Playlist markiert ein Symbol die Videos mit Untertiteln\n• Schlägt ein Download fehl, tippe auf die Meldung, um den genauen Fehler zu sehen und zu kopieren",
-      "es": "• Descarga los vídeos con sus subtítulos integrados: nueva pestaña Subtítulos, un idioma o todos\n• Reproductor integrado: botón de subtítulos para elegir el idioma o desactivarlos, con tamaño del texto y fondo oscuro\n• En la Lista de reproducción, un icono indica los vídeos que tienen subtítulos\n• Si una descarga falla, toca el mensaje para ver el error exacto y copiarlo",
-      "he": "• הורידו סרטונים עם כתוביות מוטמעות: לשונית כתוביות חדשה, שפה אחת או כל השפות\n• הנגן המובנה: כפתור כתוביות לבחירת השפה או לכיבוי, עם גודל טקסט ורקע כהה\n• בפלייליסט, סמל מציין את הסרטונים שיש להם כתוביות\n• אם הורדה נכשלת, הקישו על ההודעה כדי לראות את השגיאה המדויקת ולהעתיק אותה",
-      "hi": "• वीडियो को उनके उपशीर्षकों के साथ डाउनलोड करें: नया उपशीर्षक टैब, एक भाषा या सभी भाषाएँ, वीडियो में जुड़े हुए\n• बिल्ट-इन प्लेयर: भाषा चुनने या उपशीर्षक बंद करने का बटन, टेक्स्ट का आकार और गहरी पृष्ठभूमि\n• प्लेलिस्ट में, उपशीर्षक वाले वीडियो पर एक आइकन दिखता है\n• डाउनलोड विफल होने पर, सटीक गड़बड़ी देखने और कॉपी करने के लिए संदेश पर टैप करें",
-      "it": "• Scarica i video con i sottotitoli incorporati: nuova scheda Sottotitoli, una lingua o tutte\n• Lettore integrato: pulsante sottotitoli per scegliere la lingua o disattivarli, con dimensione del testo e sfondo scuro\n• Nella Playlist, un'icona indica i video che hanno i sottotitoli\n• Se un download non riesce, tocca il messaggio per vedere l'errore esatto e copiarlo",
-      "ja": "• 字幕付きで動画をダウンロード：新しい「字幕」タブで 1 つの言語またはすべての言語を選び、動画に埋め込みます\n• 内蔵プレーヤー：字幕ボタンで言語の選択やオフ、文字サイズ、暗い背景を設定\n• プレイリストで、字幕付きの動画にアイコンを表示\n• ダウンロードに失敗したら、メッセージをタップすると詳しいエラーを確認してコピーできます",
-      "ko": "• 자막이 포함된 동영상 다운로드: 새 자막 탭에서 한 언어 또는 모든 언어 선택, 동영상에 포함\n• 내장 플레이어: 자막 버튼으로 언어 선택 또는 끄기, 글자 크기와 어두운 배경 설정\n• 재생목록에서 자막이 있는 동영상에 아이콘이 표시됩니다\n• 다운로드에 실패하면 메시지를 눌러 정확한 오류를 보고 복사할 수 있습니다",
-      "pt": "• Baixe os vídeos com as legendas embutidas: nova aba Legendas, um idioma ou todos\n• Player integrado: botão de legendas para escolher o idioma ou desativá-las, com tamanho do texto e fundo escuro\n• Na Playlist, um ícone indica os vídeos que têm legendas\n• Se um download falhar, toque na mensagem para ver o erro exato e copiá-lo",
-      "ru": "• Скачивайте видео со встроенными субтитрами: новая вкладка «Субтитры», один язык или все\n• Встроенный плеер: кнопка субтитров для выбора языка или отключения, размер текста и тёмный фон\n• В плейлисте значок отмечает видео с субтитрами\n• Если загрузка не удалась, нажмите на сообщение, чтобы увидеть точную ошибку и скопировать её",
-      "zh": "• 下载带字幕的视频：新的“字幕”标签，可选一种语言或全部语言，字幕嵌入视频\n• 内置播放器：字幕按钮可选择语言或关闭字幕，并可调整文字大小和深色背景\n• 在播放列表中，带字幕的视频会显示一个图标\n• 下载失败时，点按提示即可查看并复制具体错误"
+      "en": "• The Subtitles tab becomes Translation: choose the subtitles, then the audio track, then the video quality\n• When a video exists in several languages, such as YouTube's dubbed versions, download it with the audio track of your choice\n• In the Playlist, the language initials (FR, AR, EN…) appear on the picture of videos downloaded with another audio track",
+      "fr": "• L'onglet Sous-titres devient Traduction : choisissez les sous-titres, puis la piste audio, puis la qualité vidéo\n• Quand une vidéo existe en plusieurs langues, comme les versions doublées de YouTube, téléchargez-la avec la piste audio de votre choix\n• Dans la Playlist, les initiales de la langue (FR, AR, EN…) s'affichent sur l'image des vidéos téléchargées avec une autre piste audio",
+      "ar": "• تبويب «الترجمة»: اختر الترجمة، ثم المسار الصوتي، ثم جودة الفيديو\n• عندما يتوفر الفيديو بعدة لغات، مثل النسخ المدبلجة على يوتيوب، نزّله بالمسار الصوتي الذي تختاره\n• في قائمة التشغيل، تظهر الأحرف الأولى للغة (FR، AR، EN…) على صورة الفيديوهات التي نُزّلت بمسار صوتي آخر",
+      "de": "• Der Tab „Untertitel“ heißt jetzt „Übersetzung“: Wähle die Untertitel, dann die Audiospur, dann die Videoqualität\n• Gibt es ein Video in mehreren Sprachen, etwa die synchronisierten Fassungen auf YouTube, lade es mit der Audiospur deiner Wahl herunter\n• In der Playlist erscheinen die Sprachkürzel (FR, AR, EN…) auf dem Bild der Videos, die mit einer anderen Audiospur heruntergeladen wurden",
+      "es": "• La pestaña Subtítulos pasa a llamarse Traducción: elige los subtítulos, luego la pista de audio y después la calidad del vídeo\n• Cuando un vídeo está en varios idiomas, como las versiones dobladas de YouTube, descárgalo con la pista de audio que prefieras\n• En la Lista de reproducción, las iniciales del idioma (FR, AR, EN…) aparecen en la imagen de los vídeos descargados con otra pista de audio",
+      "he": "• הלשונית כתוביות נקראת עכשיו תרגום: בחרו את הכתוביות, אחר כך את רצועת השמע ולבסוף את איכות הווידאו\n• כשסרטון זמין בכמה שפות, כמו הגרסאות המדובבות ביוטיוב, הורידו אותו עם רצועת השמע שבחרתם\n• בפלייליסט, קיצור השפה (FR, AR, EN…) מופיע על התמונה של סרטונים שהורדו עם רצועת שמע אחרת",
+      "hi": "• उपशीर्षक टैब अब अनुवाद टैब है: पहले उपशीर्षक चुनें, फिर ऑडियो ट्रैक, फिर वीडियो की गुणवत्ता\n• जब कोई वीडियो कई भाषाओं में हो, जैसे YouTube के डब किए गए संस्करण, तो उसे अपनी पसंद के ऑडियो ट्रैक के साथ डाउनलोड करें\n• प्लेलिस्ट में, दूसरे ऑडियो ट्रैक के साथ डाउनलोड किए गए वीडियो की तस्वीर पर भाषा के शुरुआती अक्षर (FR, AR, EN…) दिखते हैं",
+      "it": "• La scheda Sottotitoli diventa Traduzione: scegli i sottotitoli, poi la traccia audio, poi la qualità video\n• Quando un video è disponibile in più lingue, come le versioni doppiate di YouTube, scaricalo con la traccia audio che preferisci\n• Nella Playlist, le iniziali della lingua (FR, AR, EN…) compaiono sull'immagine dei video scaricati con un'altra traccia audio",
+      "ja": "• 「字幕」タブは「翻訳」タブになりました：字幕、音声トラック、画質の順に選べます\n• YouTube の吹き替え版のように複数の言語がある動画は、好きな音声トラックでダウンロードできます\n• プレイリストで、別の音声トラックでダウンロードした動画の画像に言語の略称（FR、AR、EN など）を表示",
+      "ko": "• 자막 탭이 번역 탭으로 바뀌었습니다: 자막, 오디오 트랙, 동영상 화질 순서로 선택\n• YouTube 더빙 버전처럼 여러 언어로 제공되는 동영상은 원하는 오디오 트랙으로 다운로드할 수 있습니다\n• 재생목록에서 다른 오디오 트랙으로 다운로드한 동영상의 이미지에 언어 약어(FR, AR, EN…)가 표시됩니다",
+      "pt": "• A aba Legendas passa a se chamar Tradução: escolha as legendas, depois a faixa de áudio e depois a qualidade do vídeo\n• Quando um vídeo está disponível em vários idiomas, como as versões dubladas do YouTube, baixe-o com a faixa de áudio que preferir\n• Na Playlist, as iniciais do idioma (FR, AR, EN…) aparecem na imagem dos vídeos baixados com outra faixa de áudio",
+      "ru": "• Вкладка «Субтитры» теперь называется «Перевод»: выберите субтитры, затем звуковую дорожку, затем качество видео\n• Если видео есть на нескольких языках, например дублированные версии на YouTube, скачайте его с нужной звуковой дорожкой\n• В плейлисте на изображении видео, скачанных с другой звуковой дорожкой, отображается код языка (FR, AR, EN…)",
+      "zh": "• “字幕”标签改为“翻译”：依次选择字幕、音轨和视频画质\n• 视频有多种语言时（例如 YouTube 的配音版本），可以选择想要的音轨下载\n• 在播放列表中，用其他音轨下载的视频图片上会显示语言缩写（FR、AR、EN 等）"
     },
     "apk": {
-      "arm64-v8a": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.4.1/MyVideoDownloader-v1.4.1-arm64-v8a.apk",
-      "armeabi-v7a": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.4.1/MyVideoDownloader-v1.4.1-armeabi-v7a.apk",
-      "x86_64": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.4.1/MyVideoDownloader-v1.4.1-x86_64.apk",
-      "universal": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.4.1/MyVideoDownloader-v1.4.1-universal.apk"
+      "arm64-v8a": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.5.5/MyVideoDownloader-v1.5.5-arm64-v8a.apk",
+      "armeabi-v7a": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.5.5/MyVideoDownloader-v1.5.5-armeabi-v7a.apk",
+      "x86_64": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.5.5/MyVideoDownloader-v1.5.5-x86_64.apk",
+      "universal": "https://github.com/Oussama4422/Myvideodownloader/releases/download/v1.5.5/MyVideoDownloader-v1.5.5-universal.apk"
     },
     "sha256": {
-      "arm64-v8a": "3876db3c1c7c7fb1a0ab39a508eb95114715c40b26f75537abc4744822005c1e",
-      "armeabi-v7a": "dee2253be119a9ff377b80f7e9afbd91ace3b50b766806d650bbbbca772400e1",
-      "x86_64": "4849c9018466187d57b884c737a44e6e5dc60fea8ed8a68ec132c32e3e384632",
-      "universal": "e05acfdd05f5480e8bf9e82e3e1ae0927284fea3b6e28aab3e1541d856abb103"
+      "arm64-v8a": "70b9b4843551e94a1518c36e2294bebe8770f521759809627afdd213a1cc6ccb",
+      "armeabi-v7a": "51da7e6059a24b49cfc353c2d593b9c3d20f83b5e46a6c975f411a9c17ca9780",
+      "x86_64": "cb931286fad260944029f23023129c92ff5ee8d23d97f73f969ef71480f30450",
+      "universal": "77cda489d709f5675076fc4cfb04d4ae59c96996afe93ffe4f8e47287cc21b39"
     },
     "size": {
-      "arm64-v8a": 66115616,
-      "armeabi-v7a": 58945156,
-      "x86_64": 69121246,
-      "universal": 226585842
+      "arm64-v8a": 66131600,
+      "armeabi-v7a": 58961140,
+      "x86_64": 69137230,
+      "universal": 226601822
     },
     "page": "https://videodownloader.my/en/download"
   },
