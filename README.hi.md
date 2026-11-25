@@ -17,7 +17,7 @@
 ## 📸 स्क्रीनशॉट
 
 <table align="center"><tr>
-<td align="center" valign="top"><img src="docs/screens/hi/home.webp" alt="स्रोत चुनें" width="230"><br><sub><b>स्रोत चुनें</b></sub></td><td align="center" valign="top"><img src="docs/screens/hi/youtube.webp" alt="क्वालिटी चुनें" width="230"><br><sub><b>क्वालिटी चुनें</b></sub></td><td align="center" valign="top"><img src="docs/screens/hi/menu.webp" alt="लंबे दबाव वाले विकल्प" width="230"><br><sub><b>लंबे दबाव वाले विकल्प</b></sub></td>
+<td align="center" valign="top"><img src="docs/screens/hi/home.webp" alt="लिंक पेस्ट करें" width="230"><br><sub><b>लिंक पेस्ट करें</b></sub></td><td align="center" valign="top"><img src="docs/screens/hi/youtube.webp" alt="क्वालिटी चुनें" width="230"><br><sub><b>क्वालिटी चुनें</b></sub></td><td align="center" valign="top"><img src="docs/screens/hi/menu.webp" alt="लंबे दबाव वाले विकल्प" width="230"><br><sub><b>लंबे दबाव वाले विकल्प</b></sub></td>
 </tr><tr>
 <td align="center" valign="top"><img src="docs/screens/hi/drawer.webp" alt="मेन्यू" width="230"><br><sub><b>मेन्यू</b></sub></td><td align="center" valign="top"><img src="docs/screens/hi/playlist.webp" alt="आपकी प्लेलिस्ट" width="230"><br><sub><b>आपकी प्लेलिस्ट</b></sub></td><td align="center" valign="top"><img src="docs/screens/hi/settings.webp" alt="सेटिंग्स" width="230"><br><sub><b>सेटिंग्स</b></sub></td>
 </tr></table>
@@ -36,7 +36,7 @@
 
 ## 🌐 समर्थित साइटें
 
-<p align="center"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"> <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"> <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"> <img src="https://img.shields.io/badge/Kick-53FC18?style=for-the-badge&logo=kick&logoColor=black" alt="Kick"></p>
+<p align="center"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge" alt="YouTube"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge" alt="X"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge" alt="Instagram"> <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge" alt="Facebook"> <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge" alt="Threads"> <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge" alt="Snapchat"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge" alt="TikTok"> <img src="https://img.shields.io/badge/Kick-53FC18?style=for-the-badge" alt="Kick"></p>
 
 <p align="center"><i>…और वीडियो दिखाने वाली ज़्यादातर वेबसाइटें।</i></p>
 
@@ -50,7 +50,7 @@
 4. फ़ाइल **Download/My Video Downloader** में सेव होती है और **प्लेलिस्ट** में दिखती है।
 
 <table align="center"><tr>
-<td align="center" valign="top"><img src="docs/screens/hi/home.webp" alt="स्रोत चुनें" width="200"><br><sub><b>स्रोत चुनें</b></sub></td><td align="center" valign="top"><img src="docs/screens/hi/youtube_top.webp" alt="पेस्ट करें और विश्लेषण करें" width="200"><br><sub><b>पेस्ट करें और विश्लेषण करें</b></sub></td><td align="center" valign="top"><img src="docs/screens/hi/youtube.webp" alt="क्वालिटी चुनें" width="200"><br><sub><b>क्वालिटी चुनें</b></sub></td><td align="center" valign="top"><img src="docs/screens/hi/playlist.webp" alt="आपकी प्लेलिस्ट" width="200"><br><sub><b>आपकी प्लेलिस्ट</b></sub></td>
+<td align="center" valign="top"><img src="docs/screens/hi/home.webp" alt="लिंक पेस्ट करें" width="200"><br><sub><b>लिंक पेस्ट करें</b></sub></td><td align="center" valign="top"><img src="docs/screens/hi/youtube_top.webp" alt="पेस्ट करें और विश्लेषण करें" width="200"><br><sub><b>पेस्ट करें और विश्लेषण करें</b></sub></td><td align="center" valign="top"><img src="docs/screens/hi/youtube.webp" alt="क्वालिटी चुनें" width="200"><br><sub><b>क्वालिटी चुनें</b></sub></td><td align="center" valign="top"><img src="docs/screens/hi/playlist.webp" alt="आपकी प्लेलिस्ट" width="200"><br><sub><b>आपकी प्लेलिस्ट</b></sub></td>
 </tr></table>
 
 ### तरीका 2 — ऐप से शेयर करें

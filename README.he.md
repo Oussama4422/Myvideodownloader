@@ -19,7 +19,7 @@
 ## 📸 צילומי מסך
 
 <table align="center"><tr>
-<td align="center" valign="top"><img src="docs/screens/he/home.webp" alt="בחירת מקור" width="230"><br><sub><b>בחירת מקור</b></sub></td><td align="center" valign="top"><img src="docs/screens/he/youtube.webp" alt="בחירת איכות" width="230"><br><sub><b>בחירת איכות</b></sub></td><td align="center" valign="top"><img src="docs/screens/he/menu.webp" alt="פעולות בלחיצה ארוכה" width="230"><br><sub><b>פעולות בלחיצה ארוכה</b></sub></td>
+<td align="center" valign="top"><img src="docs/screens/he/home.webp" alt="הדבקת קישור" width="230"><br><sub><b>הדבקת קישור</b></sub></td><td align="center" valign="top"><img src="docs/screens/he/youtube.webp" alt="בחירת איכות" width="230"><br><sub><b>בחירת איכות</b></sub></td><td align="center" valign="top"><img src="docs/screens/he/menu.webp" alt="פעולות בלחיצה ארוכה" width="230"><br><sub><b>פעולות בלחיצה ארוכה</b></sub></td>
 </tr><tr>
 <td align="center" valign="top"><img src="docs/screens/he/drawer.webp" alt="תפריט" width="230"><br><sub><b>תפריט</b></sub></td><td align="center" valign="top"><img src="docs/screens/he/playlist.webp" alt="הפלייליסט" width="230"><br><sub><b>הפלייליסט</b></sub></td><td align="center" valign="top"><img src="docs/screens/he/settings.webp" alt="הגדרות" width="230"><br><sub><b>הגדרות</b></sub></td>
 </tr></table>
@@ -38,7 +38,7 @@
 
 ## 🌐 אתרים נתמכים
 
-<p align="center"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"> <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"> <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"> <img src="https://img.shields.io/badge/Kick-53FC18?style=for-the-badge&logo=kick&logoColor=black" alt="Kick"></p>
+<p align="center"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge" alt="YouTube"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge" alt="X"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge" alt="Instagram"> <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge" alt="Facebook"> <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge" alt="Threads"> <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge" alt="Snapchat"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge" alt="TikTok"> <img src="https://img.shields.io/badge/Kick-53FC18?style=for-the-badge" alt="Kick"></p>
 
 <p align="center"><i>…ורוב האתרים שמציגים סרטון.</i></p>
 
@@ -52,7 +52,7 @@
 4. הקובץ נשמר ב-**Download/My Video Downloader** ומופיע ב**פלייליסט**.
 
 <table align="center"><tr>
-<td align="center" valign="top"><img src="docs/screens/he/home.webp" alt="בחירת מקור" width="200"><br><sub><b>בחירת מקור</b></sub></td><td align="center" valign="top"><img src="docs/screens/he/youtube_top.webp" alt="הדבקה וניתוח" width="200"><br><sub><b>הדבקה וניתוח</b></sub></td><td align="center" valign="top"><img src="docs/screens/he/youtube.webp" alt="בחירת איכות" width="200"><br><sub><b>בחירת איכות</b></sub></td><td align="center" valign="top"><img src="docs/screens/he/playlist.webp" alt="הפלייליסט" width="200"><br><sub><b>הפלייליסט</b></sub></td>
+<td align="center" valign="top"><img src="docs/screens/he/home.webp" alt="הדבקת קישור" width="200"><br><sub><b>הדבקת קישור</b></sub></td><td align="center" valign="top"><img src="docs/screens/he/youtube_top.webp" alt="הדבקה וניתוח" width="200"><br><sub><b>הדבקה וניתוח</b></sub></td><td align="center" valign="top"><img src="docs/screens/he/youtube.webp" alt="בחירת איכות" width="200"><br><sub><b>בחירת איכות</b></sub></td><td align="center" valign="top"><img src="docs/screens/he/playlist.webp" alt="הפלייליסט" width="200"><br><sub><b>הפלייליסט</b></sub></td>
 </tr></table>
 
 ### שיטה 2 — שיתוף מהאפליקציה

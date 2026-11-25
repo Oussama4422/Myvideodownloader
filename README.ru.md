@@ -17,7 +17,7 @@
 ## 📸 Скриншоты
 
 <table align="center"><tr>
-<td align="center" valign="top"><img src="docs/screens/ru/home.webp" alt="Выберите источник" width="230"><br><sub><b>Выберите источник</b></sub></td><td align="center" valign="top"><img src="docs/screens/ru/youtube.webp" alt="Выберите качество" width="230"><br><sub><b>Выберите качество</b></sub></td><td align="center" valign="top"><img src="docs/screens/ru/menu.webp" alt="Действия по долгому нажатию" width="230"><br><sub><b>Действия по долгому нажатию</b></sub></td>
+<td align="center" valign="top"><img src="docs/screens/ru/home.webp" alt="Вставьте ссылку" width="230"><br><sub><b>Вставьте ссылку</b></sub></td><td align="center" valign="top"><img src="docs/screens/ru/youtube.webp" alt="Выберите качество" width="230"><br><sub><b>Выберите качество</b></sub></td><td align="center" valign="top"><img src="docs/screens/ru/menu.webp" alt="Действия по долгому нажатию" width="230"><br><sub><b>Действия по долгому нажатию</b></sub></td>
 </tr><tr>
 <td align="center" valign="top"><img src="docs/screens/ru/drawer.webp" alt="Меню" width="230"><br><sub><b>Меню</b></sub></td><td align="center" valign="top"><img src="docs/screens/ru/playlist.webp" alt="Ваш плейлист" width="230"><br><sub><b>Ваш плейлист</b></sub></td><td align="center" valign="top"><img src="docs/screens/ru/settings.webp" alt="Настройки" width="230"><br><sub><b>Настройки</b></sub></td>
 </tr></table>
@@ -36,7 +36,7 @@
 
 ## 🌐 Поддерживаемые сайты
 
-<p align="center"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"> <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"> <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"> <img src="https://img.shields.io/badge/Kick-53FC18?style=for-the-badge&logo=kick&logoColor=black" alt="Kick"></p>
+<p align="center"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge" alt="YouTube"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge" alt="X"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge" alt="Instagram"> <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge" alt="Facebook"> <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge" alt="Threads"> <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge" alt="Snapchat"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge" alt="TikTok"> <img src="https://img.shields.io/badge/Kick-53FC18?style=for-the-badge" alt="Kick"></p>
 
 <p align="center"><i>…и большинство сайтов, где есть видео.</i></p>
 
@@ -50,7 +50,7 @@
 4. Файл сохраняется в **Download/My Video Downloader** и появляется в **плейлисте**.
 
 <table align="center"><tr>
-<td align="center" valign="top"><img src="docs/screens/ru/home.webp" alt="Выберите источник" width="200"><br><sub><b>Выберите источник</b></sub></td><td align="center" valign="top"><img src="docs/screens/ru/youtube_top.webp" alt="Вставить и проанализировать" width="200"><br><sub><b>Вставить и проанализировать</b></sub></td><td align="center" valign="top"><img src="docs/screens/ru/youtube.webp" alt="Выберите качество" width="200"><br><sub><b>Выберите качество</b></sub></td><td align="center" valign="top"><img src="docs/screens/ru/playlist.webp" alt="Ваш плейлист" width="200"><br><sub><b>Ваш плейлист</b></sub></td>
+<td align="center" valign="top"><img src="docs/screens/ru/home.webp" alt="Вставьте ссылку" width="200"><br><sub><b>Вставьте ссылку</b></sub></td><td align="center" valign="top"><img src="docs/screens/ru/youtube_top.webp" alt="Вставить и проанализировать" width="200"><br><sub><b>Вставить и проанализировать</b></sub></td><td align="center" valign="top"><img src="docs/screens/ru/youtube.webp" alt="Выберите качество" width="200"><br><sub><b>Выберите качество</b></sub></td><td align="center" valign="top"><img src="docs/screens/ru/playlist.webp" alt="Ваш плейлист" width="200"><br><sub><b>Ваш плейлист</b></sub></td>
 </tr></table>
 
 ### Способ 2 — поделиться из приложения

@@ -17,7 +17,7 @@
 ## 📸 스크린샷
 
 <table align="center"><tr>
-<td align="center" valign="top"><img src="docs/screens/ko/home.webp" alt="소스 선택" width="230"><br><sub><b>소스 선택</b></sub></td><td align="center" valign="top"><img src="docs/screens/ko/youtube.webp" alt="화질 선택" width="230"><br><sub><b>화질 선택</b></sub></td><td align="center" valign="top"><img src="docs/screens/ko/menu.webp" alt="길게 누르기 메뉴" width="230"><br><sub><b>길게 누르기 메뉴</b></sub></td>
+<td align="center" valign="top"><img src="docs/screens/ko/home.webp" alt="링크 붙여넣기" width="230"><br><sub><b>링크 붙여넣기</b></sub></td><td align="center" valign="top"><img src="docs/screens/ko/youtube.webp" alt="화질 선택" width="230"><br><sub><b>화질 선택</b></sub></td><td align="center" valign="top"><img src="docs/screens/ko/menu.webp" alt="길게 누르기 메뉴" width="230"><br><sub><b>길게 누르기 메뉴</b></sub></td>
 </tr><tr>
 <td align="center" valign="top"><img src="docs/screens/ko/drawer.webp" alt="메뉴" width="230"><br><sub><b>메뉴</b></sub></td><td align="center" valign="top"><img src="docs/screens/ko/playlist.webp" alt="재생목록" width="230"><br><sub><b>재생목록</b></sub></td><td align="center" valign="top"><img src="docs/screens/ko/settings.webp" alt="설정" width="230"><br><sub><b>설정</b></sub></td>
 </tr></table>
@@ -36,7 +36,7 @@
 
 ## 🌐 지원 사이트
 
-<p align="center"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"> <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"> <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"> <img src="https://img.shields.io/badge/Kick-53FC18?style=for-the-badge&logo=kick&logoColor=black" alt="Kick"></p>
+<p align="center"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge" alt="YouTube"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge" alt="X"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge" alt="Instagram"> <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge" alt="Facebook"> <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge" alt="Threads"> <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge" alt="Snapchat"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge" alt="TikTok"> <img src="https://img.shields.io/badge/Kick-53FC18?style=for-the-badge" alt="Kick"></p>
 
 <p align="center"><i>…그리고 동영상이 있는 대부분의 웹사이트.</i></p>
 
@@ -50,7 +50,7 @@
 4. 파일은 **Download/My Video Downloader**에 저장되고 **재생목록**에 표시됩니다.
 
 <table align="center"><tr>
-<td align="center" valign="top"><img src="docs/screens/ko/home.webp" alt="소스 선택" width="200"><br><sub><b>소스 선택</b></sub></td><td align="center" valign="top"><img src="docs/screens/ko/youtube_top.webp" alt="붙여넣고 분석" width="200"><br><sub><b>붙여넣고 분석</b></sub></td><td align="center" valign="top"><img src="docs/screens/ko/youtube.webp" alt="화질 선택" width="200"><br><sub><b>화질 선택</b></sub></td><td align="center" valign="top"><img src="docs/screens/ko/playlist.webp" alt="재생목록" width="200"><br><sub><b>재생목록</b></sub></td>
+<td align="center" valign="top"><img src="docs/screens/ko/home.webp" alt="링크 붙여넣기" width="200"><br><sub><b>링크 붙여넣기</b></sub></td><td align="center" valign="top"><img src="docs/screens/ko/youtube_top.webp" alt="붙여넣고 분석" width="200"><br><sub><b>붙여넣고 분석</b></sub></td><td align="center" valign="top"><img src="docs/screens/ko/youtube.webp" alt="화질 선택" width="200"><br><sub><b>화질 선택</b></sub></td><td align="center" valign="top"><img src="docs/screens/ko/playlist.webp" alt="재생목록" width="200"><br><sub><b>재생목록</b></sub></td>
 </tr></table>
 
 ### 방법 2 — 앱에서 공유하기

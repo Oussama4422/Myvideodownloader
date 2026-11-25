@@ -17,7 +17,7 @@
 ## 📸 截图
 
 <table align="center"><tr>
-<td align="center" valign="top"><img src="docs/screens/zh/home.webp" alt="选择来源" width="230"><br><sub><b>选择来源</b></sub></td><td align="center" valign="top"><img src="docs/screens/zh/youtube.webp" alt="选择画质" width="230"><br><sub><b>选择画质</b></sub></td><td align="center" valign="top"><img src="docs/screens/zh/menu.webp" alt="长按操作" width="230"><br><sub><b>长按操作</b></sub></td>
+<td align="center" valign="top"><img src="docs/screens/zh/home.webp" alt="粘贴链接" width="230"><br><sub><b>粘贴链接</b></sub></td><td align="center" valign="top"><img src="docs/screens/zh/youtube.webp" alt="选择画质" width="230"><br><sub><b>选择画质</b></sub></td><td align="center" valign="top"><img src="docs/screens/zh/menu.webp" alt="长按操作" width="230"><br><sub><b>长按操作</b></sub></td>
 </tr><tr>
 <td align="center" valign="top"><img src="docs/screens/zh/drawer.webp" alt="菜单" width="230"><br><sub><b>菜单</b></sub></td><td align="center" valign="top"><img src="docs/screens/zh/playlist.webp" alt="播放列表" width="230"><br><sub><b>播放列表</b></sub></td><td align="center" valign="top"><img src="docs/screens/zh/settings.webp" alt="设置" width="230"><br><sub><b>设置</b></sub></td>
 </tr></table>
@@ -36,7 +36,7 @@
 
 ## 🌐 支持的网站
 
-<p align="center"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"> <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"> <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"> <img src="https://img.shields.io/badge/Kick-53FC18?style=for-the-badge&logo=kick&logoColor=black" alt="Kick"></p>
+<p align="center"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge" alt="YouTube"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge" alt="X"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge" alt="Instagram"> <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge" alt="Facebook"> <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge" alt="Threads"> <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge" alt="Snapchat"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge" alt="TikTok"> <img src="https://img.shields.io/badge/Kick-53FC18?style=for-the-badge" alt="Kick"></p>
 
 <p align="center"><i>……以及大多数包含视频的网站。</i></p>
 
@@ -50,7 +50,7 @@
 4. 文件会保存到 **Download/My Video Downloader**，并显示在 **播放列表** 中。
 
 <table align="center"><tr>
-<td align="center" valign="top"><img src="docs/screens/zh/home.webp" alt="选择来源" width="200"><br><sub><b>选择来源</b></sub></td><td align="center" valign="top"><img src="docs/screens/zh/youtube_top.webp" alt="粘贴并解析" width="200"><br><sub><b>粘贴并解析</b></sub></td><td align="center" valign="top"><img src="docs/screens/zh/youtube.webp" alt="选择画质" width="200"><br><sub><b>选择画质</b></sub></td><td align="center" valign="top"><img src="docs/screens/zh/playlist.webp" alt="播放列表" width="200"><br><sub><b>播放列表</b></sub></td>
+<td align="center" valign="top"><img src="docs/screens/zh/home.webp" alt="粘贴链接" width="200"><br><sub><b>粘贴链接</b></sub></td><td align="center" valign="top"><img src="docs/screens/zh/youtube_top.webp" alt="粘贴并解析" width="200"><br><sub><b>粘贴并解析</b></sub></td><td align="center" valign="top"><img src="docs/screens/zh/youtube.webp" alt="选择画质" width="200"><br><sub><b>选择画质</b></sub></td><td align="center" valign="top"><img src="docs/screens/zh/playlist.webp" alt="播放列表" width="200"><br><sub><b>播放列表</b></sub></td>
 </tr></table>
 
 ### 方法 2 — 从应用中分享

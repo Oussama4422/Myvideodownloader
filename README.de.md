@@ -17,7 +17,7 @@
 ## 📸 Screenshots
 
 <table align="center"><tr>
-<td align="center" valign="top"><img src="docs/screens/de/home.webp" alt="Quelle wählen" width="230"><br><sub><b>Quelle wählen</b></sub></td><td align="center" valign="top"><img src="docs/screens/de/youtube.webp" alt="Qualität wählen" width="230"><br><sub><b>Qualität wählen</b></sub></td><td align="center" valign="top"><img src="docs/screens/de/menu.webp" alt="Aktionen per langem Tippen" width="230"><br><sub><b>Aktionen per langem Tippen</b></sub></td>
+<td align="center" valign="top"><img src="docs/screens/de/home.webp" alt="Link einfügen" width="230"><br><sub><b>Link einfügen</b></sub></td><td align="center" valign="top"><img src="docs/screens/de/youtube.webp" alt="Qualität wählen" width="230"><br><sub><b>Qualität wählen</b></sub></td><td align="center" valign="top"><img src="docs/screens/de/menu.webp" alt="Aktionen per langem Tippen" width="230"><br><sub><b>Aktionen per langem Tippen</b></sub></td>
 </tr><tr>
 <td align="center" valign="top"><img src="docs/screens/de/drawer.webp" alt="Menü" width="230"><br><sub><b>Menü</b></sub></td><td align="center" valign="top"><img src="docs/screens/de/playlist.webp" alt="Deine Playlist" width="230"><br><sub><b>Deine Playlist</b></sub></td><td align="center" valign="top"><img src="docs/screens/de/settings.webp" alt="Einstellungen" width="230"><br><sub><b>Einstellungen</b></sub></td>
 </tr></table>
@@ -36,7 +36,7 @@
 
 ## 🌐 Unterstützte Seiten
 
-<p align="center"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"> <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"> <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"> <img src="https://img.shields.io/badge/Kick-53FC18?style=for-the-badge&logo=kick&logoColor=black" alt="Kick"></p>
+<p align="center"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge" alt="YouTube"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge" alt="X"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge" alt="Instagram"> <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge" alt="Facebook"> <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge" alt="Threads"> <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge" alt="Snapchat"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge" alt="TikTok"> <img src="https://img.shields.io/badge/Kick-53FC18?style=for-the-badge" alt="Kick"></p>
 
 <p align="center"><i>…und die meisten Websites, die ein Video zeigen.</i></p>
 
@@ -50,7 +50,7 @@
 4. Die Datei wird unter **Download/My Video Downloader** gespeichert und erscheint in der **Playlist**.
 
 <table align="center"><tr>
-<td align="center" valign="top"><img src="docs/screens/de/home.webp" alt="Quelle wählen" width="200"><br><sub><b>Quelle wählen</b></sub></td><td align="center" valign="top"><img src="docs/screens/de/youtube_top.webp" alt="Einfügen und analysieren" width="200"><br><sub><b>Einfügen und analysieren</b></sub></td><td align="center" valign="top"><img src="docs/screens/de/youtube.webp" alt="Qualität wählen" width="200"><br><sub><b>Qualität wählen</b></sub></td><td align="center" valign="top"><img src="docs/screens/de/playlist.webp" alt="Deine Playlist" width="200"><br><sub><b>Deine Playlist</b></sub></td>
+<td align="center" valign="top"><img src="docs/screens/de/home.webp" alt="Link einfügen" width="200"><br><sub><b>Link einfügen</b></sub></td><td align="center" valign="top"><img src="docs/screens/de/youtube_top.webp" alt="Einfügen und analysieren" width="200"><br><sub><b>Einfügen und analysieren</b></sub></td><td align="center" valign="top"><img src="docs/screens/de/youtube.webp" alt="Qualität wählen" width="200"><br><sub><b>Qualität wählen</b></sub></td><td align="center" valign="top"><img src="docs/screens/de/playlist.webp" alt="Deine Playlist" width="200"><br><sub><b>Deine Playlist</b></sub></td>
 </tr></table>
 
 ### Methode 2 — Aus der App teilen

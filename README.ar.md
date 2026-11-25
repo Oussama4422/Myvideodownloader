@@ -19,7 +19,7 @@
 ## 📸 لقطات الشاشة
 
 <table align="center"><tr>
-<td align="center" valign="top"><img src="docs/screens/ar/home.webp" alt="اختر مصدرًا" width="230"><br><sub><b>اختر مصدرًا</b></sub></td><td align="center" valign="top"><img src="docs/screens/ar/youtube.webp" alt="اختر الجودة" width="230"><br><sub><b>اختر الجودة</b></sub></td><td align="center" valign="top"><img src="docs/screens/ar/menu.webp" alt="إجراءات الضغط المطوّل" width="230"><br><sub><b>إجراءات الضغط المطوّل</b></sub></td>
+<td align="center" valign="top"><img src="docs/screens/ar/home.webp" alt="الصق رابطًا" width="230"><br><sub><b>الصق رابطًا</b></sub></td><td align="center" valign="top"><img src="docs/screens/ar/youtube.webp" alt="اختر الجودة" width="230"><br><sub><b>اختر الجودة</b></sub></td><td align="center" valign="top"><img src="docs/screens/ar/menu.webp" alt="إجراءات الضغط المطوّل" width="230"><br><sub><b>إجراءات الضغط المطوّل</b></sub></td>
 </tr><tr>
 <td align="center" valign="top"><img src="docs/screens/ar/drawer.webp" alt="القائمة" width="230"><br><sub><b>القائمة</b></sub></td><td align="center" valign="top"><img src="docs/screens/ar/playlist.webp" alt="قائمة التشغيل" width="230"><br><sub><b>قائمة التشغيل</b></sub></td><td align="center" valign="top"><img src="docs/screens/ar/settings.webp" alt="الإعدادات" width="230"><br><sub><b>الإعدادات</b></sub></td>
 </tr></table>
@@ -38,7 +38,7 @@
 
 ## 🌐 المواقع المدعومة
 
-<p align="center"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"> <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"> <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"> <img src="https://img.shields.io/badge/Kick-53FC18?style=for-the-badge&logo=kick&logoColor=black" alt="Kick"></p>
+<p align="center"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge" alt="YouTube"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge" alt="X"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge" alt="Instagram"> <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge" alt="Facebook"> <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge" alt="Threads"> <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge" alt="Snapchat"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge" alt="TikTok"> <img src="https://img.shields.io/badge/Kick-53FC18?style=for-the-badge" alt="Kick"></p>
 
 <p align="center"><i>…ومعظم المواقع التي تعرض فيديو.</i></p>
 
@@ -52,7 +52,7 @@
 4. يُحفظ الملف في **Download/My Video Downloader** ويظهر في **قائمة التشغيل**.
 
 <table align="center"><tr>
-<td align="center" valign="top"><img src="docs/screens/ar/home.webp" alt="اختر مصدرًا" width="200"><br><sub><b>اختر مصدرًا</b></sub></td><td align="center" valign="top"><img src="docs/screens/ar/youtube_top.webp" alt="الصق ثم حلّل" width="200"><br><sub><b>الصق ثم حلّل</b></sub></td><td align="center" valign="top"><img src="docs/screens/ar/youtube.webp" alt="اختر الجودة" width="200"><br><sub><b>اختر الجودة</b></sub></td><td align="center" valign="top"><img src="docs/screens/ar/playlist.webp" alt="قائمة التشغيل" width="200"><br><sub><b>قائمة التشغيل</b></sub></td>
+<td align="center" valign="top"><img src="docs/screens/ar/home.webp" alt="الصق رابطًا" width="200"><br><sub><b>الصق رابطًا</b></sub></td><td align="center" valign="top"><img src="docs/screens/ar/youtube_top.webp" alt="الصق ثم حلّل" width="200"><br><sub><b>الصق ثم حلّل</b></sub></td><td align="center" valign="top"><img src="docs/screens/ar/youtube.webp" alt="اختر الجودة" width="200"><br><sub><b>اختر الجودة</b></sub></td><td align="center" valign="top"><img src="docs/screens/ar/playlist.webp" alt="قائمة التشغيل" width="200"><br><sub><b>قائمة التشغيل</b></sub></td>
 </tr></table>
 
 ### الطريقة 2 — المشاركة من التطبيق

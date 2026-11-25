@@ -17,7 +17,7 @@
 ## 📸 スクリーンショット
 
 <table align="center"><tr>
-<td align="center" valign="top"><img src="docs/screens/ja/home.webp" alt="ソースを選ぶ" width="230"><br><sub><b>ソースを選ぶ</b></sub></td><td align="center" valign="top"><img src="docs/screens/ja/youtube.webp" alt="画質を選ぶ" width="230"><br><sub><b>画質を選ぶ</b></sub></td><td align="center" valign="top"><img src="docs/screens/ja/menu.webp" alt="長押しメニュー" width="230"><br><sub><b>長押しメニュー</b></sub></td>
+<td align="center" valign="top"><img src="docs/screens/ja/home.webp" alt="リンクを貼り付ける" width="230"><br><sub><b>リンクを貼り付ける</b></sub></td><td align="center" valign="top"><img src="docs/screens/ja/youtube.webp" alt="画質を選ぶ" width="230"><br><sub><b>画質を選ぶ</b></sub></td><td align="center" valign="top"><img src="docs/screens/ja/menu.webp" alt="長押しメニュー" width="230"><br><sub><b>長押しメニュー</b></sub></td>
 </tr><tr>
 <td align="center" valign="top"><img src="docs/screens/ja/drawer.webp" alt="メニュー" width="230"><br><sub><b>メニュー</b></sub></td><td align="center" valign="top"><img src="docs/screens/ja/playlist.webp" alt="プレイリスト" width="230"><br><sub><b>プレイリスト</b></sub></td><td align="center" valign="top"><img src="docs/screens/ja/settings.webp" alt="設定" width="230"><br><sub><b>設定</b></sub></td>
 </tr></table>
@@ -36,7 +36,7 @@
 
 ## 🌐 対応サイト
 
-<p align="center"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"> <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"> <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"> <img src="https://img.shields.io/badge/Kick-53FC18?style=for-the-badge&logo=kick&logoColor=black" alt="Kick"></p>
+<p align="center"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge" alt="YouTube"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge" alt="X"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge" alt="Instagram"> <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge" alt="Facebook"> <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge" alt="Threads"> <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge" alt="Snapchat"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge" alt="TikTok"> <img src="https://img.shields.io/badge/Kick-53FC18?style=for-the-badge" alt="Kick"></p>
 
 <p align="center"><i>…そして動画を表示するほとんどのサイト。</i></p>
 
@@ -50,7 +50,7 @@
 4. ファイルは **Download/My Video Downloader** に保存され、**プレイリスト** に表示されます。
 
 <table align="center"><tr>
-<td align="center" valign="top"><img src="docs/screens/ja/home.webp" alt="ソースを選ぶ" width="200"><br><sub><b>ソースを選ぶ</b></sub></td><td align="center" valign="top"><img src="docs/screens/ja/youtube_top.webp" alt="貼り付けて解析" width="200"><br><sub><b>貼り付けて解析</b></sub></td><td align="center" valign="top"><img src="docs/screens/ja/youtube.webp" alt="画質を選ぶ" width="200"><br><sub><b>画質を選ぶ</b></sub></td><td align="center" valign="top"><img src="docs/screens/ja/playlist.webp" alt="プレイリスト" width="200"><br><sub><b>プレイリスト</b></sub></td>
+<td align="center" valign="top"><img src="docs/screens/ja/home.webp" alt="リンクを貼り付ける" width="200"><br><sub><b>リンクを貼り付ける</b></sub></td><td align="center" valign="top"><img src="docs/screens/ja/youtube_top.webp" alt="貼り付けて解析" width="200"><br><sub><b>貼り付けて解析</b></sub></td><td align="center" valign="top"><img src="docs/screens/ja/youtube.webp" alt="画質を選ぶ" width="200"><br><sub><b>画質を選ぶ</b></sub></td><td align="center" valign="top"><img src="docs/screens/ja/playlist.webp" alt="プレイリスト" width="200"><br><sub><b>プレイリスト</b></sub></td>
 </tr></table>
 
 ### 方法 2 — アプリから共有する
